@@ -2,7 +2,7 @@
 <section>
     <h4 class="text-lg">University</h4>
     <div>
-        <a target="_blank" rel="noopener noreferrer" href="https://steven-boutcher2.imgbb.com/">
+        <a target="_blank" rel="noopener noreferrer" href="https://ibb.co/09k8TcP">
             Spanish, BSE (Bachelor of Science in Education)
         </a>
     </div>
@@ -19,7 +19,7 @@
             </a>
         </li>
         <li>
-            <a target="_blank" rel="noopener noreferrer" href="https://fetchrewards.udemy.com/certificate/UC-b96c7643-85bb-4ae6-a34c-e293e39bcba6/">
+            <a target="_blank" rel="noopener noreferrer" href="https://ibb.co/xLsjCqY">
                 Udemy – Python
             </a>
         </li>
@@ -32,7 +32,7 @@
             </a>
         </li>
         <li>
-            <a target="_blank" rel="noopener noreferrer" href="https://bit.ly/3vsbF06">
+            <a target="_blank" rel="noopener noreferrer" href="https://ibb.co/kDxC3ZL">
                 LinkedIn Learning – SQL for Testers
             </a>
         </li>
