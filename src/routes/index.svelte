@@ -3,7 +3,7 @@
     <h2 class="text-xl">QA Engineer | Technical Writer | Parkour Nerd</h2>
 </header>
 
-<h3 class="text-xl">About Me</h3>
+<h3 class="text-xl">About M</h3>
 <section>
     <p>
         For those interested in my full tech career journey, go 
