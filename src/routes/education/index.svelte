@@ -6,6 +6,12 @@
             Spanish, BSE (Bachelor of Science in Education)
         </a>
     </div>
+
+    <h4 class="text-lg">Technical Writing</h4>
+    <div>
+        <p>Nothing to see here (yet!)</p>
+    </div>
+
     <h4 class="text-lg">QA Automation</h4>
     <ul>
         <li>
@@ -24,6 +30,7 @@
             </a>
         </li>
     </ul>
+
     <h4 class="text-lg">Functional QA</h4>
     <ul>
         <li>
@@ -37,6 +44,7 @@
             </a>
         </li>
     </ul>
+
     <h4 class="text-lg">Web Development</h4>
     <ul>
         <li>
