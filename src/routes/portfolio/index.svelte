@@ -1,13 +1,21 @@
-<h3 class="text-xl">Portfolio</h3>
-<section>
-    <h4 class="text-lg">Technical Writing Samples</h4>
+<nav class="flex w-full justify-evenly text-yellow-500">
+    <a href="/">About Me</a>
+    <a href="/education">Education</a>
+    <a href="/portfolio">Portfolio</a>
+</nav>
+<br />
+<hr />
+
+<h3 class="text-xl text-center my-5">Portfolio</h3>
+<section class="text-yellow-500 border border-solid border-purple-500 p-5 m-5 rounded-xl">
+    <h4 class="text-lg my-5 text-center text-white underline underline-offset-2">Technical Writing Samples</h4>
     <ul>
         <li>
             <p>Nothing to see here (yet!)</p>
         </li>
     </ul>
 
-    <h4 class="text-lg">Tutorials</h4>
+    <h4 class="text-lg my-5 text-center text-white underline underline-offset-2">Tutorials</h4>
     <ul>
         <li>
             <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@stevenboutcher/changing-state-in-react-using-setstate-49102dcfd25">
@@ -26,7 +34,7 @@
         </li>
     </ul>
 
-    <h4 class="text-lg">Web Development Projects</h4>
+    <h4 class="text-lg my-5 text-center text-white underline underline-offset-2">Web Development Projects</h4>
     <a target="_blank" rel="noopener noreferrer" href="https://www.github.com/boutchersj">
         My GitHub
     </a>

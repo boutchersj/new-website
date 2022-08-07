@@ -1,18 +1,26 @@
-<h3 class="text-xl">Education</h3>
-<section>
-    <h4 class="text-lg">University</h4>
+<nav class="flex w-full justify-evenly text-yellow-500">
+    <a href="/">About Me</a>
+    <a href="/education">Education</a>
+    <a href="/portfolio">Portfolio</a>
+</nav>
+<br />
+<hr />
+
+<h3 class="text-xl text-center my-5">Education</h3>
+<section class="text-yellow-500 border border-solid border-purple-500 p-5 m-5 rounded-xl">
+    <h4 class="text-lg my-5 text-center text-white underline underline-offset-2">University</h4>
     <div>
-        <a target="_blank" rel="noopener noreferrer" href="https://ibb.co/09k8TcP">
+        <a class="text-yellow-500" target="_blank" rel="noopener noreferrer" href="https://ibb.co/09k8TcP">
             Spanish, BSE (Bachelor of Science in Education)
         </a>
     </div>
 
-    <h4 class="text-lg">Technical Writing</h4>
+    <h4 class="text-lg my-5 text-center text-white underline underline-offset-2">Technical Writing</h4>
     <div>
         <p>Nothing to see here (yet!)</p>
     </div>
 
-    <h4 class="text-lg">QA Automation</h4>
+    <h4 class="text-lg my-5 text-center text-white underline underline-offset-2">QA Automation</h4>
     <ul>
         <li>
             <a target="_blank" rel="noopener noreferrer" href="https://www.codecademy.com/profiles/parkoursteve/certificates/1c05e0382bc5681c824c4cbe85c126fd">
@@ -31,7 +39,7 @@
         </li>
     </ul>
 
-    <h4 class="text-lg">Functional QA</h4>
+    <h4 class="text-lg my-5 text-center text-white underline underline-offset-2">Functional QA</h4>
     <ul>
         <li>
             <a target="_blank" rel="noopener noreferrer" href="https://atsqa.org/certified-testers/profile/cfc87a81d4ee464b9f8c702a6ffeb8dd">
@@ -45,7 +53,7 @@
         </li>
     </ul>
 
-    <h4 class="text-lg">Web Development</h4>
+    <h4 class="text-lg my-5 text-center text-white underline underline-offset-2">Web Development</h4>
     <ul>
         <li>
             <a target="_blank" rel="noopener noreferrer" href="https://www.freecodecamp.org/certification/boutchersj/responsive-web-design">
