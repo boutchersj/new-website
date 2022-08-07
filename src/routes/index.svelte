@@ -21,12 +21,12 @@
         for my coworkers to acquire new skills.
     </p>
     <p>
-        Outside of work, my wife & I have 2 adorable kitty cats, and we love to travel, cook, go to movies, and try new things together. 
+        Outside of work, my wife, Sam & I have 2 adorable kitty cats named Minnie & Sadie, and we love to travel, cook, go to the movies, and try new things together. 
         We saw Seattle and Las Vegas for the first time on our honeymoon, and 5 months later we took our first overseas trip to Spain 
         to visit Sevilla and Granada!
     </p>
     <p>
-        Fun fact: My wife and I started together on the customer support team at Fetch Rewards, but we didn't meet there!</p>
+        Fun fact: Sam and I started together on the customer support team at Fetch Rewards, but we didn't meet there!</p>
     <p>
         If you'd like to chat over coffee over Zoom, drop me an 
         <a href="mailto:boutchersj@gmail.com">
