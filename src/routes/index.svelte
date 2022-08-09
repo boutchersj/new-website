@@ -24,7 +24,7 @@
     <br />
     <p>
         During my time in tech, I've worn a few hats, including customer support, manual software testing, frontend development, 
-        interviewing, onboarding, mentoring, and documentation. I'm always down for learning new things at work, and I've become 
+        interviewing, onboarding, mentoring, and documentation writing. I'm always down for learning new things at work, and I've become 
         a fan of adding to my company's internal wiki documentation to help with onboarding new QA Engineers and make it easier 
         for my coworkers to acquire new skills.
     </p>
