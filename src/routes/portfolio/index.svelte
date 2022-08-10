@@ -6,7 +6,7 @@
 
 <h3 class="text-xl text-center mt-5">Portfolio</h3>
 <div class="min-h-[90vh] flex justify-center items-center">
-    <section class="max-h-[30rem] text-yellow-300 border border-solid border-green-300 p-5 m-5 rounded-xl text-center">
+    <section class="max-h-[50rem] text-yellow-300 border border-solid border-green-300 p-5 m-5 rounded-xl text-center">
         <h4 class="text-lg my-5 text-center text-white underline underline-offset-2">Technical Writing Samples</h4>
         <ul>
             <li class="text-green-300">
