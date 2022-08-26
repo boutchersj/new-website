@@ -13,7 +13,7 @@
         </a>
     
         <h4 class="text-lg my-5 text-center text-white underline underline-offset-2">Technical Writing</h4>
-        <a class="text-green-300" target="_blank" rel="noopener noreferrer" href="https://technicalwriterhq.com/technical-writing-certification-courses/#pm-courses">
+        <a class="text-green-300" target="_blank" rel="noopener noreferrer" href="https://technicalwriterhq.com/technical-writing-certification/">
             [IN PROGRESS] Technical Writer HQ - Certified Technical Writer
         </a>
     
