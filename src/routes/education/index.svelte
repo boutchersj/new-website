@@ -13,7 +13,9 @@
         </a>
     
         <h4 class="text-lg my-5 text-center text-white underline underline-offset-2">Technical Writing</h4>
-        <p class="text-green-300">Nothing to see here (yet!)</p>
+        <a class="text-green-300" target="_blank" rel="noopener noreferrer" href="https://technicalwriterhq.com/technical-writing-certification-courses/#pm-courses">
+            [IN PROGRESS] Technical Writer HQ - Certified Technical Writer
+        </a>
     
         <h4 class="text-lg my-5 text-center text-white underline underline-offset-2">QA Automation</h4>
         <ul>

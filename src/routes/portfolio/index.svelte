@@ -9,8 +9,10 @@
     <section class="max-h-[50rem] text-yellow-300 border border-solid border-green-300 p-5 m-5 rounded-xl text-center">
         <h4 class="text-lg my-5 text-center text-white underline underline-offset-2">Technical Writing Samples</h4>
         <ul>
-            <li class="text-green-300">
-                <p>Nothing to see here (yet!)</p>
+            <li>
+                <a target="_blank" rel="noopener noreferrer" href="https://lucid.app/lucidchart/de124e7b-ba53-4501-bc91-a2b0bccd9823/edit?invitationId=inv_ae4ba31a-a873-40b3-bafe-90871bf99bce">
+                    Sitemap - Parkour Generations
+                </a>
             </li>
         </ul>
     
