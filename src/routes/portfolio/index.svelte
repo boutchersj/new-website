@@ -1,11 +1,5 @@
-<nav class="flex w-full justify-evenly text-yellow-300 border border-x-0 border-t-0 border-b-white pb-5">
-    <a href="/">About Me</a>
-    <a href="/education">Education</a>
-    <a href="/portfolio">Portfolio</a>
-</nav>
-
-<h3 class="text-xl text-center mt-5">Portfolio</h3>
-<div class="min-h-[90vh] flex justify-center items-center">
+<h3 class="text-xl text-center my-5">Portfolio</h3>
+<div class="min-h-[60vh] flex justify-center items-center">
     <section class="max-h-[50rem] text-yellow-300 border border-solid border-green-300 p-5 m-5 rounded-xl text-center">
         <h4 class="text-lg my-5 text-center text-white underline underline-offset-2">Technical Writing Samples</h4>
         <ul>
@@ -50,12 +44,3 @@
         </ul>
     </section>
 </div>
-
-<footer class="flex flex-row w-full justify-evenly text-yellow-300 pt-5 border border-x-0 border-b-0 border-t-white">
-    <a target="_blank" rel="noopener noreferrer" href="https://www.github.com/boutchersj">
-        GitHub
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/boutchersj">
-        LinkedIn
-    </a>
-</footer>

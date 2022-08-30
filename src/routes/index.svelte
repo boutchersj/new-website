@@ -1,17 +1,6 @@
-<nav class="flex w-full justify-evenly text-yellow-300 border border-x-0 border-t-0 border-b-white pb-5">
-    <a href="/">About Me</a>
-    <a href="/education">Education</a>
-    <a href="/portfolio">Portfolio</a>
-</nav>
-
-<header class="flex flex-col items-center my-5">
-    <h1 class="text-4xl mb-2">Steven Boutcher</h1>
-    <h2 class="text-xl">Explorer | Builder | Educator</h2>
-</header>
-
-<h3 class="text-xl text-center mb-5">About Me</h3>
+<h3 class="text-xl text-center my-5">About Me</h3>
 <div class="min-h-[90vh] flex justify-center items-center">
-    <section class="max-h-[60rem] mb-5 mx-5 border border-solid border-green-300 p-5 rounded-xl md:w-[50%]">
+    <section class="max-h-[60rem] m-5 border border-solid border-green-300 p-5 rounded-xl md:w-[50%]">
         <p>
             For those interested in my full tech career journey, go 
             <a class="text-yellow-300" target="_blank" rel="noopener noreferrer" href="https://blog.stevenboutcher.com/my-tech-career-origin-story-part-i">
@@ -49,12 +38,3 @@
         </p>
     </section>
 </div>
-
-<footer class="flex flex-row w-full justify-evenly text-yellow-300 pt-5 border border-x-0 border-b-0 border-t-white">
-    <a target="_blank" rel="noopener noreferrer" href="https://www.github.com/boutchersj">
-        GitHub
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/boutchersj">
-        LinkedIn
-    </a>
-</footer>
