@@ -37,8 +37,8 @@
                 </a>
             </li>
             <li>
-                <a target="_blank" rel="noopener noreferrer" href="https://www.plutato.com">
-                    Plutato - a more fun way for cashiers to learn PLU codes
+                <a class="text-green-300" target="_blank" rel="noopener noreferrer" href="https://www.plutato.com">
+                    [IN PROGRESS] Plutato - a more fun way for cashiers to learn PLU codes
                 </a>
             </li>
         </ul>
