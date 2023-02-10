@@ -2,7 +2,7 @@
   import "../app.css";
 </script>
 
-<nav class="flex w-full justify-evenly text-yellow-300 border border-x-0 border-t-0 border-b-white pb-5">
+<nav class="flex w-full justify-evenly text-yellow-300 pb-5">
   <a href="/">About Me</a>
   <a href="/education">Education</a>
   <a href="/portfolio">Portfolio</a>
@@ -15,7 +15,7 @@
 
 <slot />
 
-<footer class="flex flex-row w-full justify-evenly text-yellow-300 pt-5 border border-x-0 border-b-0 border-t-white">
+<footer class="flex flex-row w-full justify-evenly text-yellow-300 pt-5">
   <a target="_blank" rel="noopener noreferrer" href="https://www.github.com/boutchersj">
       GitHub
   </a>

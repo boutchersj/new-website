@@ -1,6 +1,6 @@
 <h3 class="text-xl text-center my-5">About Me</h3>
 <div class="min-h-[90vh] flex justify-center items-center">
-    <section class="max-h-[60rem] m-5 border border-solid border-green-300 p-5 rounded-xl md:w-[50%]">
+    <section class="max-h-[60rem] m-5 p-5 rounded-xl md:w-[50%]">
         <p>
             For those interested in my full tech career journey, go 
             <a class="text-yellow-300" target="_blank" rel="noopener noreferrer" href="https://blog.stevenboutcher.com/my-tech-career-origin-story-part-i">

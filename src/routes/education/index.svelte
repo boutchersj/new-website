@@ -1,6 +1,6 @@
 <h3 class="text-xl text-center my-5">Education</h3>
 <div class="min-h-[90vh] flex justify-center items-center">
-    <section class="max-h-[60rem] text-yellow-300 border border-solid border-green-300 p-5 m-5 rounded-xl text-center">
+    <section class="max-h-[60rem] text-yellow-300 p-5 m-5 rounded-xl text-center">
         <h4 class="text-lg my-5 text-white underline underline-offset-2">University</h4>
         <a class="text-yellow-300" target="_blank" rel="noopener noreferrer" href="https://ibb.co/09k8TcP">
             Spanish, BSE
