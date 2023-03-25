@@ -5,6 +5,6 @@
                 The world can only define you if you don't show anyone who you are.
             </p>
         </div>
-        <img src='src/images/parkour_3_16.gif' alt='selfie of me next to my bike' />
+        <img src='src/images/parkour_3_16.gif' alt='GIF of me doing parkour' />
     </div>
 </main>
