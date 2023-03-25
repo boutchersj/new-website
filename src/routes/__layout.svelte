@@ -2,24 +2,14 @@
   import "../app.css";
 </script>
 
-<nav class="flex w-full justify-evenly text-yellow-300 pb-5">
-  <a href="/">About Me</a>
-  <a href="/education">Education</a>
-  <a href="/portfolio">Portfolio</a>
-</nav>
-
-<header class="flex flex-col items-center my-5">
-  <h1 class="text-4xl mb-2">Steven Boutcher</h1>
-  <h2 class="text-xl">Explorer | Builder | Educator</h2>
+<header class='flex justify-between bg-black text-white h-16 text-lg p-5 justify-center items-center'>
+  <h1 class='text-3xl'>Steven Boutcher</h1>
+  <nav class='underline flex w-[30%] justify-between'>
+    <a target='_blank' class='hover:text-cyan-500' href="https://www.youtube.com/channel/UC3FmOiyig5g5J1MtJHj9XtQ">YouTube</a>
+    <a target='_blank' class='hover:text-cyan-500' href="https://blog.stevenboutcher.com">Blog</a>
+    <a target='_blank' class='hover:text-cyan-500' href="https://www.linkedin.com/in/boutchersj">LinkedIn</a>
+    <a target='_blank' class='hover:text-cyan-500' href="https://www.twitter.com/StevenBoutcher">Twitter</a>
+  </nav>
 </header>
 
 <slot />
-
-<footer class="flex flex-row w-full justify-evenly text-yellow-300 pt-5">
-  <a target="_blank" rel="noopener noreferrer" href="https://www.github.com/boutchersj">
-      GitHub
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/boutchersj">
-      LinkedIn
-  </a>
-</footer>
