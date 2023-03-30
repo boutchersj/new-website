@@ -50,4 +50,13 @@
             <p class='w-[25%] text-center scale-[2]'>🖥️</p>
         </div>
     </div>
+    <div class='flex flex-col text-lg md:text-2xl justify-center items-center h-full bg-gradient-to-b from-white via-green-500 to-white p-10'>
+        <h3 class='font-mono text-2xl md:text-4xl w-full text-center my-5'>Software QA</h3>
+        <p class='font-mono w-full text-center'>Testing apps, websites, APIs, etc.</p>
+        <p class='w-full text-center py-5'>----------</p>
+        <p class='font-mono w-full text-center'>also, automating these tests 🤖</p>
+        <div class='w-full flex justify-center py-10'>
+            <p class='w-[25%] text-center scale-[2]'>🧪</p>
+        </div>
+    </div>
 </main>
