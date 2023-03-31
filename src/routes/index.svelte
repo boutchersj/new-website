@@ -25,7 +25,7 @@
             These are some of the games I've chosen to play:
         </p>
     </div>
-    <GameCard 
+    <GameCard
         title='Video Games'
         line1='Going on simulated adventures in strange lands'
         year={2004}
@@ -33,13 +33,21 @@
         emoji='🎮'
         accentColor='via-green-300'
     />
-    <GameCard 
+    <GameCard
         title='Violin'
         line1='The musical instrument closest to the human voice'
         year={2004}
         line2='Deal with the devil not required to play'
         emoji='🎻'
         accentColor='via-orange-500'
+    />
+    <GameCard
+        title='Spanish'
+        line1='Reading, writing, listening, and speaking Castilian Spanish.'
+        year={2008}
+        line2="I could not roll my R's until 2013"
+        emoji='🇪🇸'
+        accentColor='via-yellow-500'
     />
     <GameCard
         title='Parkour'
