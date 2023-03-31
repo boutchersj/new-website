@@ -54,9 +54,18 @@
         <h3 class='text-2xl md:text-4xl w-full text-center my-5'>Software QA</h3>
         <p class='w-full text-center'>Testing apps, websites, APIs, etc.</p>
         <p class='w-full text-md md:text-xl text-center py-5'>- since 2020 -</p>
-        <p class='w-full text-center'>also, automating these tests 🤖</p>
+        <p class='w-full text-center'>also, automating those tests</p>
         <div class='w-full flex justify-center py-10'>
-            <p class='w-[25%] text-center scale-[2]'>🧪</p>
+            <p class='w-[25%] text-center scale-[2]'>🧪🤖</p>
+        </div>
+    </div>
+    <div class='flex flex-col text-lg md:text-2xl justify-center items-center h-full bg-gradient-to-b from-white via-pink-500 to-white p-10'>
+        <h3 class='text-2xl md:text-4xl w-full text-center my-5'>Husbandhood</h3>
+        <p class='w-full text-center'>Being married to my best friend!</p>
+        <p class='w-full text-md md:text-xl text-center py-5'>- since 2021 -</p>
+        <p class='w-full text-center'>My heart grew 3 sizes that day</p>
+        <div class='w-full flex justify-center py-10'>
+            <p class='w-[25%] text-center scale-[2]'>❤️❤️❤️</p>
         </div>
     </div>
 </main>
