@@ -26,6 +26,14 @@
         </p>
     </div>
     <GameCard 
+        title='Video Games'
+        line1='Going on simulated adventures in strange lands'
+        year={2004}
+        line2='#Playstation'
+        emoji='🎮'
+        accentColor='via-green-300'
+    />
+    <GameCard 
         title='Violin'
         line1='The musical instrument closest to the human voice'
         year={2004}
@@ -35,13 +43,23 @@
     />
     <GameCard
         title='Parkour'
-        gif='images/parkour_3_16.gif'
-        gifAlt='GIF of me doing parkour'
+        image='images/parkour_3_16.gif'
+        imageAlt='GIF of me doing parkour'
         line1='Creative movement for efficient navigation'
         year={2010}
         line2='Bring out your inner monkey'
         emoji='🐒'
         accentColor='via-red-500'
+    />
+    <GameCard
+        title='International Travel'
+        image='images/sevilla_alcazar.png'
+        imageAlt='Sam and I standing next at a gate in the Royal Alcazar of Sevilla'
+        line1='Experiencing as much of the world as possible'
+        year={2016}
+        line2='One misadventure at a time'
+        emoji='🌍'
+        accentColor='via-green-700 via-blue-800'
     />
     <GameCard
         title='Web Development'
@@ -50,6 +68,14 @@
         line2='*ahem* *points at this website*'
         emoji='🖥️'
         accentColor='via-purple-500'
+    />
+    <GameCard
+        title='Driving Stick'
+        line1="It's like regular driving but more vroom vroom"
+        year={2019}
+        line2='Only 18% of Americans can drive stick'
+        emoji='🕹️'
+        accentColor='via-red-300'
     />
     <GameCard
         title='Software QA'
@@ -61,6 +87,8 @@
     />
     <GameCard
         title='Husbandhood'
+        image='images/wedding_forest.png'
+        imageAlt='wedding photo of me and Sam in an autumn forest'
         line1='Being married to my best friend!'
         year={2021}
         line2='My heart grew 3 sizes that day'
