@@ -31,7 +31,7 @@
         year={2004}
         line2='Deal with the devil not required to play'
         emoji='🎻'
-        accentColor='orange-500'
+        accentColor='via-orange-500'
     />
     <GameCard
         title='Parkour'
@@ -41,7 +41,7 @@
         year={2010}
         line2='Bring out your inner monkey'
         emoji='🐒'
-        accentColor='red-500'
+        accentColor='via-red-500'
     />
     <GameCard
         title='Web Development'
@@ -49,7 +49,7 @@
         year={2017}
         line2='*ahem* *points at this website*'
         emoji='🖥️'
-        accentColor='purple-500'
+        accentColor='via-purple-500'
     />
     <GameCard
         title='Software QA'
@@ -57,7 +57,7 @@
         year={2020}
         line2='also, automating those tests'
         emoji='🧪🤖'
-        accentColor='green-500'
+        accentColor='via-green-500'
     />
     <GameCard
         title='Husbandhood'
@@ -65,6 +65,6 @@
         year={2021}
         line2='My heart grew 3 sizes that day'
         emoji='❤️❤️❤️'
-        accentColor='pink-500'
+        accentColor='via-pink-500'
     />
 </main>

@@ -8,7 +8,7 @@
     export let emoji: string;
     export let accentColor: string;
 
-    const containerStyles: string = `flex flex-col text-lg md:text-2xl justify-center items-center h-full bg-gradient-to-b from-white via-${accentColor} to-white p-10`
+    const containerStyles: string = `flex flex-col text-lg md:text-2xl justify-center items-center h-full bg-gradient-to-b from-white ${accentColor} to-white p-10`
 </script>
 
 <div class={containerStyles}>
