@@ -33,41 +33,38 @@
         emoji='🎻'
         accentColor='orange-500'
     />
-    <div class='flex flex-col text-lg md:text-2xl justify-center items-center h-full bg-gradient-to-b from-white via-red-500 to-white p-10'>
-        <h3 class='text-2xl md:text-4xl w-full text-center my-5'>Parkour</h3>
-        <img class='h-full border border-white rounded-xl border-opacity-0 my-10' src='images/parkour_3_16.gif' alt='GIF of me doing parkour' />
-        <p class='w-full text-center'>Creative movement for efficient navigation</p>
-        <p class='w-full text-md md:text-xl text-center py-5'>- since 2010 -</p>
-        <p class='w-full text-center'>Bring out your inner monkey</p>
-        <div class='w-full flex justify-center py-10'>
-            <p class='w-[25%] text-center scale-[2]'>🐒</p>
-        </div>
-    </div>
-    <div class='flex flex-col text-lg md:text-2xl justify-center items-center h-full bg-gradient-to-b from-white via-purple-500 to-white p-10'>
-        <h3 class='text-2xl md:text-4xl w-full text-center my-5'>Web Development</h3>
-        <p class='w-full text-center'>Making magic documents on the internet</p>
-        <p class='w-full text-md md:text-xl text-center py-5'>- since 2017 -</p>
-        <p class='w-full text-center'>*ahem* *points at this website*</p>
-        <div class='w-full flex justify-center py-10'>
-            <p class='w-[25%] text-center scale-[2]'>🖥️</p>
-        </div>
-    </div>
-    <div class='flex flex-col text-lg md:text-2xl justify-center items-center h-full bg-gradient-to-b from-white via-green-500 to-white p-10'>
-        <h3 class='text-2xl md:text-4xl w-full text-center my-5'>Software QA</h3>
-        <p class='w-full text-center'>Testing apps, websites, APIs, etc.</p>
-        <p class='w-full text-md md:text-xl text-center py-5'>- since 2020 -</p>
-        <p class='w-full text-center'>also, automating those tests</p>
-        <div class='w-full flex justify-center py-10'>
-            <p class='w-[25%] text-center scale-[2]'>🧪🤖</p>
-        </div>
-    </div>
-    <div class='flex flex-col text-lg md:text-2xl justify-center items-center h-full bg-gradient-to-b from-white via-pink-500 to-white p-10'>
-        <h3 class='text-2xl md:text-4xl w-full text-center my-5'>Husbandhood</h3>
-        <p class='w-full text-center'>Being married to my best friend!</p>
-        <p class='w-full text-md md:text-xl text-center py-5'>- since 2021 -</p>
-        <p class='w-full text-center'>My heart grew 3 sizes that day</p>
-        <div class='w-full flex justify-center py-10'>
-            <p class='w-[25%] text-center scale-[2]'>❤️❤️❤️</p>
-        </div>
-    </div>
+    <GameCard
+        title='Parkour'
+        gif='images/parkour_3_16.gif'
+        gifAlt='GIF of me doing parkour'
+        line1='Creative movement for efficient navigation'
+        year={2010}
+        line2='Bring out your inner monkey'
+        emoji='🐒'
+        accentColor='red-500'
+    />
+    <GameCard
+        title='Web Development'
+        line1='Making magic documents on the internet'
+        year={2017}
+        line2='*ahem* *points at this website*'
+        emoji='🖥️'
+        accentColor='purple-500'
+    />
+    <GameCard
+        title='Software QA'
+        line1='Testing apps, websites, APIs, etc.'
+        year={2020}
+        line2='also, automating those tests'
+        emoji='🧪🤖'
+        accentColor='green-500'
+    />
+    <GameCard
+        title='Husbandhood'
+        line1='Being married to my best friend!'
+        year={2021}
+        line2='My heart grew 3 sizes that day'
+        emoji='❤️❤️❤️'
+        accentColor='pink-500'
+    />
 </main>
