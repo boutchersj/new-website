@@ -12,7 +12,7 @@
     const imageStyles: string = `w-full md:w-[50%] border border-white rounded-xl border-opacity-0 m-10`
 </script>
 
-<div class={containerStyles}>
+<div id={`${title.toLowerCase().replace(' ','')}`} class={containerStyles}>
     <h3 class='text-2xl md:text-4xl w-full text-center mb-5'>{title}</h3>
     {#if image && imageAlt}
         <img class={imageStyles} src={image} alt={imageAlt} />
@@ -23,4 +23,5 @@
     <div class='w-full flex justify-center py-10'>
         <p class='w-[25%] text-center scale-[2]'>{emoji}</p>
     </div>
+    <a href='#tableOfContents'>Back to top ⬆️</a>
 </div>

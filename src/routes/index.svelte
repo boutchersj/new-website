@@ -25,6 +25,17 @@
             These are some of the games I've chosen to play:
         </p>
     </div>
+    <section id='tableOfContents' class='text-white flex flex-col w-full justify-evenly items-center'>
+        <a class='text-center w-full py-5 hover:bg-cyan-500' href='#videogames'>Video Games</a>
+        <a class='text-center w-full py-5 hover:bg-cyan-500' href='#violin'>Violin</a>
+        <a class='text-center w-full py-5 hover:bg-cyan-500' href='#spanish'>Spanish</a>
+        <a class='text-center w-full py-5 hover:bg-cyan-500' href='#parkour'>Parkour</a>
+        <a class='text-center w-full py-5 hover:bg-cyan-500' href='#internationaltravel'>International Travel</a>
+        <a class='text-center w-full py-5 hover:bg-cyan-500' href='#webdevelopment'>Web Development</a>
+        <a class='text-center w-full py-5 hover:bg-cyan-500' href='#drivingstick'>Driving Stick</a>
+        <a class='text-center w-full py-5 hover:bg-cyan-500' href='#softwareqa'>Software QA</a>
+        <a class='text-center w-full py-5 hover:bg-cyan-500' href='#husbandhood'>Husbandhood</a>
+    </section>
     <GameCard
         title='Video Games'
         line1='Going on simulated adventures in strange lands'
