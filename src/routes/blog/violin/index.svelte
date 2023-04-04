@@ -1,1 +1,0 @@
-<h1 class='text-white'>Violin Blog</h1>
