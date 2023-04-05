@@ -35,8 +35,8 @@
     </p>
     <br />
     <p>
-        Then I gained some "happiness" weight when I met my now-wife in my 5th & final year of college. I believe I added another 30 
-        by the time I started seeing a nutritionist to start addressing the root cause of my weight gain: sweets. I tried a multitude of 
+        Then I gained some "happiness weight" after I met my now-wife in my 5th & final year of college. I believe I added another 30 
+        by the time I started seeing a nutritionist a few years later to start addressing the root cause of my weight gain: <b>overconsuming sugar</b>. I tried a multitude of 
         strategies, diets, exercise regimens, and none of them seemed to stick. And when something failed to work, I returned to old habits. 
         With the way I was eating, my health was essentially in a downward spiral.
     </p>
