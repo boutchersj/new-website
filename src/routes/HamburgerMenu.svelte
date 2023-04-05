@@ -11,7 +11,11 @@
 </script>
 
 <nav class='flex justify-between items-center w-full'>
-    <h1 class='text-3xl'>Steven Boutcher</h1>
+    <a href='/'>
+        <h1 class='text-3xl'>
+            Steven Boutcher
+        </h1>
+    </a>
     <button role='switch' on:click={toggleMenu} class='p-5 hover:bg-cyan-500 rounded-xl w-16'><img src='images/hamburger.png' alt='hamburger menu icon'/></button>
     </nav>
     <div id='nav-menu' class='hidden h-[100vh] flex flex-col justify-start items-center'>

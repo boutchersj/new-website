@@ -69,7 +69,7 @@
         line2='Bring out your inner monkey'
         emoji='🐒'
         accentColor='via-red-500'
-        blogEndpoint='https://www.stevenboutcher.com/blog'
+        blogEndpoint='/blog'
     />
     <GameCard
         title='International Travel'

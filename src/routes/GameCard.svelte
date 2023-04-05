@@ -25,7 +25,7 @@
         <p class='w-[25%] text-center scale-[2]'>{emoji}</p>
     </div>
     {#if blogEndpoint}
-    <a href={blogEndpoint} target='_blank' class='bg-green-500 rounded-xl px-5 py-3 mb-5'>Read Blog</a>
+    <a href={blogEndpoint} class='bg-green-500 rounded-xl px-5 py-3 mb-5'>Read Blog</a>
     {/if}
     <a href='#tableOfContents'>Back to top ⬆️</a>
 </div>
