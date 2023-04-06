@@ -2,7 +2,7 @@
     import BlogPost from '../BlogPost.svelte'
 </script>
 
-<BlogPost dayNum={3} date='April 5, 2023' weighIn={236}>
+<BlogPost dayNum={3} date='April 5, 2023' weighIn={234.6}>
     <div slot='content'>
         <p>
             Today I started to notice more cravings. I went to Woodman's in the morning to get some raspberries and sugar-free gummi worms. 
@@ -12,10 +12,10 @@
         </p>
         <br />
         <p>
-            Overall, I'm still feeling good about this decision. I think I might've eaten more today and since it was my rest day, I didn't work out. 
-            It makes sense to me that my weight went back up on Thursday morning because of that, since some of my food choices were bound to 
-            introduce some inflammation or water retention, too. I'm finding that it's easier to eat salty foods in place of sugary ones, which is helping 
-            with cravings. Even so, I think the secret here is going to be more veggies and protein because they're the most satiating.
+            I noticed I had more energy than usual again, too. I played a couple's card game called Let's Get Deeper and a few rounds of Song Quiz on Alexa. 
+            I didn't feel tired playing with the cats at night with her, either. I was able to have a philosophical conversation with her at length during the 
+            card game that I normally wouldn't have been emotionally stable nor focused enough to have. I have to wonder if removing excess sugar has made me less 
+            moody, too.
         </p>
     </div>
 </BlogPost>
