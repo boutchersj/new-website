@@ -63,6 +63,16 @@
     </p>
     <br />
     <p>
+        The strictness of the "no added sugar" rule is subject to my own judgment. I'm aiming for 0g per day, but there may be times where 
+        the only food options available have added sugar in them. I figure, if the added sugar is small enough to not exceed the "25g per day" limit, 
+        recommended by the FDA, I can use my judgment to determine if I want to consume that food. The way I see it, I'm going to be avoiding every major 
+        offender in the book, from candy & cookies to ice cream & soda. If some manages to slip into my diet in small amounts, it likely won't be adding 
+        up to a problematic quantity and I'll still see the health benefits I wanted out of this challenge in the first place. And most importantly, I won't 
+        quit this challenge before the 365 days are up. I'll just keep treating every day as an opportunity to hit the 0g goal until I turn 30. And of course, 
+        exceptional circumstances apply to anything (like, for example, an international vacation).
+    </p>
+    <br />
+    <p>
         I'm going to continue to update this blog with entries about how it's going. My aim is to make 1 
         entry per day, so I can process any feelings or thoughts I have day-to-day and spot trends in hindsight 
         later on. With that, onwards and upwards! 🚀
