@@ -7,6 +7,7 @@
     import Day5 from './posts/5.svelte'
     import Day6 from './posts/6.svelte'
     import Day7 from './posts/7.svelte'
+    import Day8 from './posts/8.svelte'
 </script>
 
 <main class='flex flex-col w-[100vw] text-white'>
@@ -26,5 +27,6 @@
         <Day5 />
         <Day6 />
         <Day7 />
+        <Day8 />
     </section>
 </main>

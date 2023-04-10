@@ -14,7 +14,11 @@
         <br />
         <p>
             I will say, though, that saying no to sugary snacks feels like it might be getting easier. I can tell 
-            there's still a nagging craving for it, but I'm starting to get back some control over it.
+            there's still a nagging craving for it, but I'm starting to get back some control over it. When Sam and I 
+            went to the art museum today, I said no to a sugary coffee drink and bought a plain latte instead. We also went 
+            for pizza beforehand and I chose boxed water instead of a can of soda. I'm starting to notice how many opportunities 
+            there normally are to buy sugary food for convenience because I'm having to find a sugar-free alternative in each instance. 
+            It's sort of eye-opening!
         </p>
     </div>
 </BlogPost>
