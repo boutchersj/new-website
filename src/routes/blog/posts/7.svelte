@@ -13,8 +13,8 @@
         <br />
         <p>
             Other than that, I've been happily eating the snacks I got myself from Target the other day. Sam and I 
-            ordered Pizza Hut for dinner and we chose a <a href='https://www.nutritionix.com/i/pizza-hut/super-supreme-large-original-pan-slice/23cb6838729fc48d4e4397c5'>
-            Supreme</a> and some <a href='https://www.nutritionix.com/i/pizza-hut/breadsticks/23cb59550d24c2d85219268d'>breadsticks</a>. 
+            ordered Pizza Hut for dinner and we chose a <a class='text-cyan-500' href='https://www.nutritionix.com/i/pizza-hut/super-supreme-large-original-pan-slice/23cb6838729fc48d4e4397c5'>
+            Supreme</a> and some <a class='text-cyan-500' href='https://www.nutritionix.com/i/pizza-hut/breadsticks/23cb59550d24c2d85219268d'>breadsticks</a>. 
             There's admittedly some sugar in those but it's like 10g altogether, which is minuscule considering how many calories they are 
             overall.
         </p>

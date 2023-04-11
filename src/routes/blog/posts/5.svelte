@@ -29,7 +29,7 @@
         </p>
         <br />
         <p>
-            They made a good substitue for food I might have bought out at a fast food restaurant, and cost significantly less for much more food. 
+            They made a good substitute for food I might have bought out at a fast food restaurant, and cost significantly less for much more food. 
             I'm still feeling good, hoping eating these snacks as substitutes will start to show up in my energy levels and on the scale in the next week.
         </p>
     </div>
