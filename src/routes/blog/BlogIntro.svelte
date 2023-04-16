@@ -1,14 +1,5 @@
 <script lang='ts'>
     export let day: number = 1;
-
-    // function setDay(e: Event) {
-    //     const { target } = e;
-    //     if (!target) return;
-    //     if (document.getElementById(`day${day+1}`) == null) return
-
-    //     const { value } = target as HTMLButtonElement;
-    //     day = value;
-    // }
 </script>
 
 <section class='my-10 w-[90%] border p-5 rounded-xl md:w-[50%]'>
@@ -19,10 +10,19 @@
     <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
         April 3, 2023
     </p>
-    <div class='flex items-center justify-center w-full my-5'>
-        <a class='flex justify-center items-center mx-3 p-3 bg-green-500 border border-black text-black my rounded' href={`#day${day}`}>Jump</a>
+    <div id='jumpToDay' class='flex items-center justify-center w-full my-5'>
+        <a 
+            class='flex justify-center items-center mx-3 p-3 bg-green-500 border border-black text-black my rounded'
+            href={`#day${day}`}
+        >
+                Jump
+        </a>
         <p>to day</p>
-        <input class='text-black mx-3 w-10 h-10 text-center' type='number' bind:value={day}/>
+        <input
+            class='text-black mx-3 w-10 h-10 text-center'
+            type='number'
+            bind:value={day}
+        />
     </div>
 
     <div class='w-full flex justify-center mb-10'>
