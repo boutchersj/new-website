@@ -1,17 +1,14 @@
 <script lang='ts'>
-    export let day: number = 1
+    export let day: number = 1;
 
-    function minusOne() {
-        if (day == 1) return;
+    // function setDay(e: Event) {
+    //     const { target } = e;
+    //     if (!target) return;
+    //     if (document.getElementById(`day${day+1}`) == null) return
 
-        day -= 1;
-    }
-
-    function plusOne() {
-        if (document.getElementById(`day${day+1}`) == null) return
-
-        day += 1;
-    }
+    //     const { value } = target as HTMLButtonElement;
+    //     day = value;
+    // }
 </script>
 
 <section class='my-10 w-[90%] border p-5 rounded-xl md:w-[50%]'>
@@ -22,10 +19,10 @@
     <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
         April 3, 2023
     </p>
-    <div class='flex items-center justify-center h-36 w-full my-5'>
-        <button class='flex justify-center items-center w-10 h-10 bg-black border border-white text-2xl text-white rounded-full mx-5' on:click={minusOne}>-</button>
-        <a class='flex justify-center items-center w-[50%] p-3 bg-white border border-white text-black my rounded' href={`#day${day}`}>Jump to Day {day}</a>
-        <button class='flex justify-center items-center w-10 h-10 bg-black border border-white text-2xl text-white rounded-full mx-5' on:click={plusOne}>+</button>
+    <div class='flex items-center justify-center w-full my-5'>
+        <a class='flex justify-center items-center mx-3 p-3 bg-green-500 border border-black text-black my rounded' href={`#day${day}`}>Jump</a>
+        <p>to day</p>
+        <input class='text-black mx-3 w-10 h-10 text-center' type='number' bind:value={day}/>
     </div>
 
     <div class='w-full flex justify-center mb-10'>
