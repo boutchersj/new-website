@@ -12,7 +12,7 @@
         </p>
         <br />
         <p>
-            Before I went to the store, I did my PT, ran a mile, and did some farmer walks with kettlebells, just to kickstart my activity 
+            Before I went to the store, I rode my bike for 10 minutes, did my PT, ran a mile, and did some farmer walks with kettlebells, just to kickstart my activity 
             level again. I felt pretty great after that, lots of mental clarity. The downside was I woke up around 3 and slept on-and-off for 
             the remainder of the night. Somehow I still felt great when I woke up the next day and didn't crash at all (I'm writing this on the 18th).
         </p>
