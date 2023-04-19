@@ -1,5 +1,8 @@
 <script lang='ts'>
-    export let day: number = 1;
+    const startDate = new Date('04/03/2023');
+    const today = new Date();
+    const daysSinceStart = Math.ceil((today.getTime() - startDate.getTime()) / (1000 * 3600 * 24))
+    export let day: number = daysSinceStart;
 </script>
 
 <section class='my-10 w-[90%] border p-5 rounded-xl md:w-[50%]'>
