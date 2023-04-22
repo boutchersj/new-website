@@ -1,10 +1,10 @@
 <section class='flex w-[100vw] text-white border border-white'>
-    <div class='flex flex-col justify-center pl-48 w-[50%] radial-gradient-bl'>
-        <h1 class='text-xs mb-5'>HEY THERE! WELCOME TO MY SITE</h1>
-        <h2 class='flex flex-col mb-5'>
-            <span class='text-4xl'>I'm Steven Boutcher</span>
-            <span class='text-4xl text-[#F2FF49]'>QA Automation Engineer</span>
-            <span class='text-4xl'>& Front-End Developer</span>
+    <div class='flex flex-col justify-center px-16 xl:pl-48 w-[50%] radial-gradient-bl'>
+        <h1 class='text-[8px] mb-5 min-w-[250px]'>HEY THERE! WELCOME TO MY SITE</h1>
+        <h2 class='flex flex-col mb-5 min-w-[420px]'>
+            <span class='lg:text-4xl'>I'm Steven Boutcher</span>
+            <span class='lg:text-4xl text-[#F2FF49]'>QA Automation Engineer</span>
+            <span class='lg:text-4xl'>& Front-End Developer</span>
         </h2>
         <div id='cta-buttons' class='flex justify-between w-[50%]'>
             <a target='_blank' class='flex justify-center items-center text-xs rounded-full bg-black text-white p-2' id='portfolio-link' href='https://www.github.com/boutchersj'>SEE PORTFOLIO</a>
