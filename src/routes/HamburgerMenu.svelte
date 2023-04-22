@@ -13,7 +13,7 @@
 <nav class='flex justify-between items-center w-full'>
     <a href='/'>
         <h1 class='text-3xl'>
-            Steven Boutcher
+            Steven <span class='text-[#F2FF49]'>Boutcher</span>
         </h1>
     </a>
     <button role='switch' on:click={toggleMenu} class='p-5 hover:bg-cyan-500 rounded-xl w-16'>
