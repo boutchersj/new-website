@@ -21,8 +21,7 @@
         <br />
         <p>
             This last meal of the day is one that I mention because it was 1,811 calories, which is more than I typically have now for 
-            1 meal. It did have 72g of protein, but I went 1,319 calories over my daily goal because I didn't go for something in the 
-            500-calorie range. That said, my daily goal is basal metabolic rate, and I definitely burned more than that today. Only the scale 
+            1 meal. It did have 72g of protein, but I went 1,769 calories over my daily goal because I didn't go for something smaller. That said, my daily goal is basal metabolic rate, and I definitely burned more than that today. Only the scale 
             knows if I broke even here, but I doubt it. One day's not a big deal.
         </p>
         <br />
