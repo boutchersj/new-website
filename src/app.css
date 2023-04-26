@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.radial-gradient-tr {
+    background-image:
+    radial-gradient(
+        circle at top right,
+        #F2FF49,
+        #141414 50%
+    );
+}
+
+.radial-gradient-bl {
+    background-image:
+    radial-gradient(
+        circle at bottom left,
+        #1B5299,
+        #141414 50%
+    );
+}

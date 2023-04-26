@@ -1,7 +1,9 @@
 <script>
+    import Hero from './Hero.svelte'
 	import GameCard from "./GameCard.svelte";
 </script>
 <main class='flex flex-col w-full'>
+    <Hero />
     <section id='lifeGrid' class='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8 text-white w-full justify-center px-5'>
         <GameCard
             title='Video Games'
