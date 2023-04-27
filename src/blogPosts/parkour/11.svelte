@@ -1,5 +1,5 @@
 <script>
-    import BlogPost from '../BlogPost.svelte'
+    import BlogPost from '../../routes/blog/BlogPost.svelte'
 </script>
 
 <BlogPost dayNum={11} date='April 13, 2023' weighIn={233.4}>

@@ -1,29 +1,30 @@
 <script>
     import BlogIntro from './BlogIntro.svelte'
-    import Day1 from './posts/1.svelte'
-    import Day2 from './posts/2.svelte'
-    import Day3 from './posts/3.svelte'
-    import Day4 from './posts/4.svelte'
-    import Day5 from './posts/5.svelte'
-    import Day6 from './posts/6.svelte'
-    import Day7 from './posts/7.svelte'
-    import Day8 from './posts/8.svelte'
-    import Day9 from './posts/9.svelte'
-    import Day10 from './posts/10.svelte'
-    import Day11 from './posts/11.svelte'
-    import Day12 from './posts/12.svelte'
-    import Day13 from './posts/13.svelte'
-    import Day14 from './posts/14.svelte'
-    import Day15 from './posts/15.svelte'
-    import Day16 from './posts/16.svelte'
-    import Day17 from './posts/17.svelte'
-    import Day18 from './posts/18.svelte'
-    import Day19 from './posts/19.svelte'
-    import Day20 from './posts/20.svelte'
-    import Day21 from './posts/21.svelte'
-    import Day22 from './posts/22.svelte'
-    import Day23 from './posts/23.svelte'
-    import Day24 from './posts/24.svelte'
+    import Day1 from '../../blogPosts/parkour/1.svelte'
+    import Day2 from '../../blogPosts/parkour/2.svelte'
+    import Day3 from '../../blogPosts/parkour/3.svelte'
+    import Day4 from '../../blogPosts/parkour/4.svelte'
+    import Day5 from '../../blogPosts/parkour/5.svelte'
+    import Day6 from '../../blogPosts/parkour/6.svelte'
+    import Day7 from '../../blogPosts/parkour/7.svelte'
+    import Day8 from '../../blogPosts/parkour/8.svelte'
+    import Day9 from '../../blogPosts/parkour/9.svelte'
+    import Day10 from '../../blogPosts/parkour/10.svelte'
+    import Day11 from '../../blogPosts/parkour/11.svelte'
+    import Day12 from '../../blogPosts/parkour/12.svelte'
+    import Day13 from '../../blogPosts/parkour/13.svelte'
+    import Day14 from '../../blogPosts/parkour/14.svelte'
+    import Day15 from '../../blogPosts/parkour/15.svelte'
+    import Day16 from '../../blogPosts/parkour/16.svelte'
+    import Day17 from '../../blogPosts/parkour/17.svelte'
+    import Day18 from '../../blogPosts/parkour/18.svelte'
+    import Day19 from '../../blogPosts/parkour/19.svelte'
+    import Day20 from '../../blogPosts/parkour/20.svelte'
+    import Day21 from '../../blogPosts/parkour/21.svelte'
+    import Day22 from '../../blogPosts/parkour/22.svelte'
+    import Day23 from '../../blogPosts/parkour/23.svelte'
+    import Day24 from '../../blogPosts/parkour/24.svelte'
+    import Day25 from '../../blogPosts/parkour/25.svelte'
 </script>
 
 <main class='flex flex-col w-[100vw] text-white'>
@@ -60,5 +61,6 @@
         <Day22 />
         <Day23 />
         <Day24 />
+        <Day25 />
     </section>
 </main>
