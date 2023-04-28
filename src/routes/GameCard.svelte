@@ -9,7 +9,7 @@
     export let blogEndpoint: string='';
     export let subdomain: string='';
 
-    const containerStyles: string = `flex flex-col items-center p-10 border border-white`
+    const containerStyles: string = `flex flex-col items-center p-10 border border-white border-8 rounded-xl`
     const imageStyles: string = `w-full md:w-[50%] border border-white rounded-xl border-opacity-0 m-10`
 </script>
 
