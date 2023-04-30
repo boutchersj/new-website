@@ -27,6 +27,7 @@
     import Day25 from '../../blogPosts/parkour/25.svelte'
     import Day26 from '../../blogPosts/parkour/26.svelte'
     import Day27 from '../../blogPosts/parkour/27.svelte'
+    import Day28 from '../../blogPosts/parkour/28.svelte'
 </script>
 
 <main class='flex flex-col w-[100vw] text-white'>
@@ -66,5 +67,6 @@
         <Day25 />
         <Day26 />
         <Day27 />
+        <Day28 />
     </section>
 </main>
