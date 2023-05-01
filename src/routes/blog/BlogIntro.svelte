@@ -11,6 +11,9 @@
         <div class='text-blue-500'>
             <a href='/blog/April2023'>April 2023</a>
         </div>
+        <div class='text-blue-500'>
+            <a href='/blog/May2023'>May 2023</a>
+        </div>
     </section>
     <div class='w-full flex justify-center mb-10'>
         <img class='w-full rounded-xl'src='/sugar.jpeg' alt='bowl of sugar'/>
