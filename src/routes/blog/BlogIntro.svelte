@@ -1,10 +1,3 @@
-<script lang='ts'>
-    const startDate = new Date('04/03/2023');
-    const today = new Date();
-    const daysSinceStart = Math.ceil((today.getTime() - startDate.getTime()) / (1000 * 3600 * 24))
-    export let day: number = daysSinceStart;
-</script>
-
 <section class='my-10 w-[90%] border p-5 rounded-xl md:w-[50%]'>
     <div class='w-full text-3xl lg:text-3xl text-red-500 mb-5 flex flex-col justify-evenly items-center text-center'>
         <h2>The #NASTY Challenge:</h2>
@@ -13,21 +6,12 @@
     <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
         April 3, 2023
     </p>
-    <div id='jumpToDay' class='flex items-center justify-center w-full my-5'>
-        <a 
-            class='flex justify-center items-center mx-3 p-3 bg-green-500 border border-black text-black my rounded'
-            href={`#day${day}`}
-        >
-                Jump
-        </a>
-        <p>to day</p>
-        <input
-            class='text-black mx-3 w-10 h-10 text-center'
-            type='number'
-            bind:value={day}
-        />
-    </div>
-
+    <section class='flex flex-col items-center justify-center my-5'>
+        <h2 class='text-xl mb-5'>Jump to Month</h2>
+        <div class='text-blue-500'>
+            <a href='/blog/April2023'>April 2023</a>
+        </div>
+    </section>
     <div class='w-full flex justify-center mb-10'>
         <img class='w-full rounded-xl'src='/sugar.jpeg' alt='bowl of sugar'/>
     </div>
