@@ -14,6 +14,5 @@
     </h1>
     <section class='w-full flex flex-col items-center'>
         <BlogIntro />
-        <Day29 />
     </section>
 </main>
