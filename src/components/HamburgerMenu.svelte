@@ -17,7 +17,7 @@
         </h1>
     </a>
     <button role='switch' on:click={toggleMenu} class='p-5 hover:bg-[#2B2D42] rounded-xl w-16'>
-        <img src='images/hamburger.png' alt='hamburger menu icon'/>
+        <img src='/hamburger.png' alt='hamburger menu icon'/>
     </button>
 </nav>
 <div id='nav-menu' class='hidden h-[100vh] flex flex-col justify-start items-center'>

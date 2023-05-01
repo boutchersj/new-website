@@ -19,7 +19,7 @@ whiteColor: '#F8F7F9'
     </div>
     <div class='xl:w-[50%] flex justify-center p-10 radial-gradient-tr order-1 xl:order-2'>
         <div class='flex justify-center w-[75%] md:w-[50%] p-2 bg-gradient-to-br from-black from-0% via-[#92DCE5] via-30% to-[#FBF7F9] to-100% rounded-xl'>
-            <img class='border border-none rounded-xl' src='images/me_4_20.jpeg' alt='me throwing the peace sign outside Target' />
+            <img class='border border-none rounded-xl' src='/me_4_20.jpeg' alt='me throwing the peace sign outside Target' />
         </div>
     </div>
 </section>

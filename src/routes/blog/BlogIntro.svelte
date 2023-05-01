@@ -29,7 +29,7 @@
     </div>
 
     <div class='w-full flex justify-center mb-10'>
-        <img class='w-full rounded-xl'src='images/sugar.jpeg' alt='bowl of sugar'/>
+        <img class='w-full rounded-xl'src='/sugar.jpeg' alt='bowl of sugar'/>
     </div>
     <div class='text-4xl text-red-500 mb-5 flex flex-col'>
         <p><b>N</b>o<br /></p>

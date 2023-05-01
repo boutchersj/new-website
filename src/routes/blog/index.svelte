@@ -1,4 +1,5 @@
 <script>
+    import '../../app.css'
     import BlogIntro from './BlogIntro.svelte'
     import Day1 from '../../blogPosts/parkour/1.svelte'
     import Day2 from '../../blogPosts/parkour/2.svelte'

@@ -11,7 +11,11 @@ const config = {
 		}),
 	],
 	kit: {
-		adapter: adapter()
+		adapter: adapter(),
+		files: {
+			lib: 'src/components',
+			assets: 'static/images'
+		}
 	}
 };
 

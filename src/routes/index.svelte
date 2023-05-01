@@ -1,14 +1,16 @@
 <script>
-    import Hero from './Hero.svelte'
-	import GameCard from "./GameCard.svelte";
+    import Hero from '$lib/Hero.svelte'
+	import GameCard from "$lib/GameCard.svelte";
+    import '../app.css'
 </script>
+
 <main class='flex flex-col w-full'>
     <Hero />
     <h1 class='flex justify-center text-3xl text-white mb-5'>Journeys & Side Quests</h1>
     <section id='lifeGrid' class='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8 text-white w-full justify-center px-5'>
         <GameCard
             title='Video Games'
-            image='images/spiderman2Game.png'
+            image='/spiderman2Game.png'
             imageAlt='the start screen for my favorite video game, Spiderman 2'
             line1='Going on simulated adventures in strange lands'
             year={2004}
@@ -17,7 +19,7 @@
         />
         <GameCard
             title='Violin'
-            image='images/violin.jpeg'
+            image='/violin.jpeg'
             imageAlt='a violin'
             line1='The musical instrument closest to the human voice'
             year={2004}
@@ -26,7 +28,7 @@
         />
         <GameCard
             title='Spanish'
-            image='images/sevilla.jpeg'
+            image='/sevilla.jpeg'
             imageAlt='A view from the setas in Sevilla of the city at night'
             line1='Reading, writing, listening, and speaking Castilian Spanish.'
             year={2008}
@@ -35,7 +37,7 @@
         />
         <GameCard
             title='Parkour'
-            image='images/parkour_3_16.gif'
+            image='/parkour_3_16.gif'
             imageAlt='GIF of me doing parkour'
             line1='Creative movement for efficient navigation'
             year={2010}
@@ -45,7 +47,7 @@
         />
         <GameCard
             title='International Travel'
-            image='images/sevilla_alcazar.png'
+            image='/sevilla_alcazar.png'
             imageAlt='Sam and I standing next at a gate in the Royal Alcazar of Sevilla'
             line1='Experiencing as much of the world as possible'
             year={2016}
@@ -54,7 +56,7 @@
         />
         <GameCard
             title='Web Development'
-            image='images/webdevelopment.jpeg'
+            image='/webdevelopment.jpeg'
             imageAlt='stock image of a laptop screen with HTML/CSS/JavaScript code and the word JavaScript overlaying it'
             line1='Making magic documents on the internet'
             year={2017}
@@ -63,7 +65,7 @@
         />
         <GameCard
             title='Driving Stick'
-            image='images/stickshift.jpeg'
+            image='/stickshift.jpeg'
             imageAlt='manual transmission gear shift'
             line1="It's like regular driving but more vroom vroom"
             year={2019}
@@ -72,7 +74,7 @@
         />
         <GameCard
             title='Software QA'
-            image='images/softwaretesting.jpeg'
+            image='/softwaretesting.jpeg'
             imageAlt='stock image representing software testing'
             line1='Testing apps, websites, APIs, etc.'
             year={2020}
@@ -82,7 +84,7 @@
         />
         <GameCard
             title='Husbandhood'
-            image='images/wedding_forest.png'
+            image='/wedding_forest.png'
             imageAlt='wedding photo of me and Sam in an autumn forest'
             line1='Being married to my best friend!'
             year={2021}

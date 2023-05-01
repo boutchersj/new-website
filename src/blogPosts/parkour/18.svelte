@@ -17,9 +17,9 @@
             anymore. I thought it'd be cool to show the InBody from February and the InBody from today in the same post here.
         </p>
         <h3 class='text-2xl my-5'>February 27, 2023</h3>
-        <img src='images/InBody_2_27_2023.jpeg' alt='InBody results from February' />
+        <img src='/InBody_2_27_2023.jpeg' alt='InBody results from February' />
         <h3 class='text-2xl my-5'>Today</h3>
-        <img src='images/InBody_4_20_2023.jpeg' alt='InBody results from today' />
+        <img src='/InBody_4_20_2023.jpeg' alt='InBody results from today' />
         <br />
         <p>
             After work, I went rock climbing at the local climbing gym. Followed that up with a high-protein dinner. I didn't 
@@ -32,6 +32,6 @@
             On a final note, a buddy of mine I hadn't seen since before I started this challenge told me my face looked slimmer after I told him 
             about the challenge I've been doing. And you know what? I agree with him!
         </p>
-        <img class='mt-5' src='images/me_4_20.jpeg' alt='selfie while walking outside Target' />
+        <img class='mt-5' src='/me_4_20.jpeg' alt='selfie while walking outside Target' />
     </div>
 </BlogPost>
