@@ -1,7 +1,6 @@
 <script>
     import '../../app.css'
     import BlogIntro from './BlogIntro.svelte'
-    import Day29 from '../../blogPosts/parkour/29.svelte'
 </script>
 
 <main class='flex flex-col w-[100vw] text-white'>

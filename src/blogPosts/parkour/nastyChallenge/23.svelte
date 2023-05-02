@@ -1,5 +1,5 @@
 <script>
-    import BlogPost from '../../routes/blog/BlogPost.svelte'
+    import BlogPost from '../../../routes/blog/BlogPost.svelte'
 	import A0 from './10.svelte';
 </script>
 

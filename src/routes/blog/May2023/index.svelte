@@ -1,7 +1,8 @@
 <script>
     import '../../../app.css'
     import DayJumper from '$lib/DayJumper.svelte'
-    import Day29 from '../../../blogPosts/parkour/29.svelte'
+    import Day29 from '../../../blogPosts/parkour/nastyChallenge/29.svelte'
+    import Day30 from '../../../blogPosts/parkour/nastyChallenge/30.svelte'
 </script>
 
 <main class='flex flex-col w-[100vw] text-white'>
@@ -15,5 +16,6 @@
     </h1>
     <section class='w-full flex flex-col items-center'>
         <Day29 />
+        <Day30 />
     </section>
 </main>
