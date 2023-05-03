@@ -3,6 +3,7 @@
     import DayJumper from '$lib/DayJumper.svelte'
     import Day29 from '../../../blogPosts/parkour/nastyChallenge/29.svelte'
     import Day30 from '../../../blogPosts/parkour/nastyChallenge/30.svelte'
+    import Day31 from '../../../blogPosts/parkour/nastyChallenge/31.svelte'
 </script>
 
 <main class='flex flex-col w-[100vw] text-white'>
@@ -17,5 +18,6 @@
     <section class='w-full flex flex-col items-center'>
         <Day29 />
         <Day30 />
+        <Day31 />
     </section>
 </main>
