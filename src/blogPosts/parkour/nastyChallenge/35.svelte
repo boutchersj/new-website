@@ -2,25 +2,25 @@
     import BlogPost from '../../../routes/blog/BlogPost.svelte'
 </script>
 
-<BlogPost dayNum={34} date='May 6, 2023' weighIn={228.4}>
+<BlogPost dayNum={35} date='May 7, 2023' weighIn={229.8}>
     <div slot='content'>
         <h3 class='font-bold'>Food</h3>
         <br />
         <p>
-            Over calorie goal by 700. 2 main meals:
+            Over calorie goal by 900. 2 main meals:
         </p>
         <ul class='list-disc ml-10 my-3'>
-            <li>Ham & Cheese Croissant w/ a latte</li>
-            <li>1/2 a large Domino's Sausage Pizza</li>
+            <li>Hot honey mustard chicken & veggie stir fry</li>
+            <li>Culver's Double Deluxe Burger w/ onion rings</li>
         </ul>
-        <p>Snacks included buttered bread again. Seems like a favorite when I have it on hand.</p>
+        <p>Snacks included buttered bread again.</p>
         <br />
         <h3 class='font-bold'>PT</h3>
         <br />
-        <p>Yes</p>
+        <p>No</p>
         <br />
         <h3 class='font-bold'>Exercise</h3>
         <br />
-        <p>Went on a 45-minute evening bike ride.</p>
+        <p>No exercise today.</p>
     </div>
 </BlogPost>
