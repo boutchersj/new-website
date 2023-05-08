@@ -18,4 +18,5 @@
 
     <slot name='content' />
     <br />
+    <a class='text-sm text-red-500' href='#month-header'>Back to Top</a>
 </section>
