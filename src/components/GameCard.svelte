@@ -25,8 +25,8 @@
         <p class='w-[25%] text-center scale-[2]'>{emoji}</p>
     </div>
     {#if blogEndpoint}
-    <a href={`/${blogEndpoint}`} class='bg-green-500 rounded-xl px-5 py-3 mb-5'>Read Blog</a>
+    <a href={`/${blogEndpoint}`} class='bg-[#92DCE5] text-black rounded-xl px-5 py-3 mb-5'>Read Blog</a>
     {:else if subdomain}
-    <a href={`https://${subdomain}.stevenboutcher.com`} target='_blank' class='bg-green-500 rounded-xl px-5 py-3 mb-5'>Read Blog</a>
+    <a href={`https://${subdomain}.stevenboutcher.com`} target='_blank' class='bg-[#92DCE5] text-black rounded-xl px-5 py-3 mb-5'>Read Blog</a>
     {/if}
 </div>

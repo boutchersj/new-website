@@ -6,7 +6,7 @@
 
 <main class='flex flex-col w-full'>
     <Hero />
-    <h1 class='flex justify-center text-3xl text-white mb-5'>Journeys & Side Quests</h1>
+    <h1 class='flex justify-center text-3xl text-white mb-5'><span class='text-[#92DCE5]'>Journeys&nbsp;</span>& Side Quests</h1>
     <section id='lifeGrid' class='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8 text-white w-full justify-center px-5'>
         <GameCard
             title='Parkour'
