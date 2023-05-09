@@ -23,5 +23,6 @@
 <div id='nav-menu' class='hidden h-[100vh] flex flex-col justify-start items-center'>
     <a on:click={toggleMenu} class='flex items-center justify-center w-[100vw] h-[20%] hover:bg-[#2B2D42]' href="/">Home</a>
     <a on:click={toggleMenu} target='_blank' class='flex justify-center items-center w-[100vw] h-[20%] hover:bg-[#2B2D42]' href="https://linktr.ee/stevenboutcher">Contact</a>
+    <a on:click={toggleMenu} target='_blank' class='flex justify-center items-center w-[100vw] h-[20%] hover:bg-[#2B2D42]' href="/Steven_Boutcher_Resume_May_2023.pdf" download="Steven_Boutcher_Resume">Resume</a>
     <a on:click={toggleMenu} target='_blank' class='flex justify-center items-center w-[100vw] h-[20%] hover:bg-[#2B2D42]' href="https://stevenboutcher.gumroad.com/">Shop</a>
 </div>
