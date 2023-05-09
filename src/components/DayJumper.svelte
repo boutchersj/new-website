@@ -9,7 +9,7 @@
 
 <div id='jumpToDay' class='flex my-5 items-center justify-center w-full'>
     <a 
-        class='flex justify-center items-center mx-3 p-3 bg-green-500 border border-black text-black my rounded'
+        class='flex justify-center items-center mx-3 p-3 bg-[#92DCE5] border border-black text-black my rounded'
         href={`#day${endDay}`}
     >
             Jump
