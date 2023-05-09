@@ -7,7 +7,7 @@
     export let didPT: boolean;
     export let exerciseSummary: string;
     export let exerciseList: string[];
-    export let otherThoughts: string;
+    export let otherThoughts: string='';
 </script>
 
 <div>
