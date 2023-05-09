@@ -4,8 +4,8 @@
 
 <BlogPost dayNum={37} date='May 9, 2023' weighIn={228}>
     <div slot='content'>
-        <p>
-            [In progress]
-        </p>
+        <h3>
+            In Progress...
+        </h3>
     </div>
 </BlogPost>

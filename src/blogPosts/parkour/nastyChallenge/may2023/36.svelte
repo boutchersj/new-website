@@ -1,4 +1,5 @@
 <script>
+    import FoodExerciseLog from '$lib/FoodExerciseLog.svelte';
     import BlogPost from '../../../../routes/blog/BlogPost.svelte'
     import FoodExerciseLog from '$lib/FoodExerciseLog.svelte';
 </script>
@@ -17,12 +18,12 @@
                 "a salad I made at Trek's salad bar"
             ]}
             didPT={false}
-            exerciseSummary='Parkour-style conditioning'
+            exerciseSummary="Parkour conditioning"
             exerciseList={[
-                'quadrupedal movement',
-                'monkey bars',
-                'push-ups'
+                "quadrupedal movement",
+                "monkey bars",
+                "push-ups"
             ]}
-        />
+    />
     </div>
 </BlogPost>
