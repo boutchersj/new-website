@@ -1,7 +1,6 @@
 <script>
     import FoodExerciseLog from '$lib/FoodExerciseLog.svelte';
     import BlogPost from '../../../../routes/blog/BlogPost.svelte'
-    import FoodExerciseLog from '$lib/FoodExerciseLog.svelte';
 </script>
 
 <BlogPost dayNum={36} date='May 8, 2023' weighIn={229.4}>
