@@ -18,7 +18,7 @@
         <span class='p-7 rounded-xl bg-black flex flex-col justify-evenly items-center'>
             <p class='text-red-500'>#NASTY Challenge</p>
             <p class='font-bold'>May 2023</p>
-            <DayJumper startDay={29} />
+            <DayJumper startDay={29} currentMonth={true}/>
             <a class='text-sm bg-[#92DCE5] text-black p-2' href='/blog'>Back to Blog</a>
         </span>
     </h1>

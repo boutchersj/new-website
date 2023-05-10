@@ -4,7 +4,8 @@
     const today: Date = new Date();
     const daysSinceStart: number = Math.ceil((today.getTime() - challengeStartDate.getTime()) / (1000 * 3600 * 24))
     export let startDay: number = 1;
-    export let endDay: number = daysSinceStart;
+    export let currentMonth: boolean = false;
+    export let endDay: number = currentMonth ? (daysSinceStart - 1) : daysSinceStart;
 </script>
 
 <div id='jumpToDay' class='flex my-5 items-center justify-center w-full'>
