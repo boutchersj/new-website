@@ -1,9 +1,23 @@
-<script>
-    import BlogPost from '../../../../routes/blog/BlogPost.svelte'
+<script lang='ts'>
+    const dayNum: number = 13
+    const date: string ='April 15, 2023'
+    const weighIn: number = 229.2
 </script>
 
-<BlogPost dayNum={13} date='April 15, 2023' weighIn={229.2}>
-    <div slot='content'>
+<section class='my-10 w-[90%] border p-5 rounded-xl md:w-[50%]'>
+    <div class='w-full text-3xl lg:text-3xl text-red-500 mb-5 flex flex-col justify-evenly items-center text-center'>
+        <h2 id={`day${dayNum}`}>Day {dayNum}</h2>
+    </div>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        {date}
+    </p>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        Weigh-in: {weighIn} lbs.
+    </p>
+
+    <br />
+
+    <div>
         <p>
             I had another success day! Today I ate a Mooyah burger like yesterday, same one, double hot bacon jam 
             cheeseburger. I'm pretty sure sugar's gotta be used in the caramelization process, but I wasn't able to find 
@@ -33,4 +47,4 @@
             because this is a direct consequence of doing that.
         </p>
     </div>
-</BlogPost>
+</section>

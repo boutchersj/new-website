@@ -1,9 +1,23 @@
-<script>
-    import BlogPost from '../../../../routes/blog/BlogPost.svelte'
+<script lang='ts'>
+    const dayNum: number = 9
+    const date: string ='April 11, 2023'
+    const weighIn: number = 233.6
 </script>
 
-<BlogPost dayNum={9} date='April 11, 2023' weighIn={233.6}>
-    <div slot='content'>
+<section class='my-10 w-[90%] border p-5 rounded-xl md:w-[50%]'>
+    <div class='w-full text-3xl lg:text-3xl text-red-500 mb-5 flex flex-col justify-evenly items-center text-center'>
+        <h2 id={`day${dayNum}`}>Day {dayNum}</h2>
+    </div>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        {date}
+    </p>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        Weigh-in: {weighIn} lbs.
+    </p>
+
+    <br />
+
+    <div>
         <p>
             Another day without added sugar! Yay! Since it was Taco Tuesday at Trek today, I got a burrito bowl from the 
             build-your-own hot lunch station. I didn't have a salad, but that means I'll have one tomorrow! My arm workout felt 
@@ -25,4 +39,4 @@
             That coupled with the clear weight loss benefits I'm seeing so far is really encouraging for me.
         </p>
     </div>
-</BlogPost>
+</section>

@@ -1,9 +1,23 @@
-<script>
-    import BlogPost from '../../../../routes/blog/BlogPost.svelte'
+<script lang='ts'>
+    const dayNum: number = 14
+    const date: string ='April 16, 2023'
+    const weighIn: number = 230.8
 </script>
 
-<BlogPost dayNum={14} date='April 16, 2023' weighIn={230.8}>
-    <div slot='content'>
+<section class='my-10 w-[90%] border p-5 rounded-xl md:w-[50%]'>
+    <div class='w-full text-3xl lg:text-3xl text-red-500 mb-5 flex flex-col justify-evenly items-center text-center'>
+        <h2 id={`day${dayNum}`}>Day {dayNum}</h2>
+    </div>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        {date}
+    </p>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        Weigh-in: {weighIn} lbs.
+    </p>
+
+    <br />
+
+    <div>
         <p>
             Well, I didn't end up working out at all over the weekend. I haven't done any PT or exercise since Tuesday. I've been 
             in a weird mood overall. Sleep schedule's been all over the place, and that mountain bike incident last Wednesday threw me 
@@ -26,4 +40,4 @@
             there's a right and a wrong way to eat no added sugar and I didn't do it right today. I'll do better tomorrow.
         </p>
     </div>
-</BlogPost>
+</section>

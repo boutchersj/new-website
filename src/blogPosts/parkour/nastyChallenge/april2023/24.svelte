@@ -1,14 +1,28 @@
 <script>
-    import BlogPost from '../../../../routes/blog/BlogPost.svelte'
+    import FoodExerciseLog from '$lib/FoodExerciseLog.svelte';
 </script>
 
-<BlogPost dayNum={24} date='April 26, 2023' weighIn={229.4}>
-    <div slot='content'>
-        <p>
-            Finished the day 198 calories under goal. Ate plenty of protein & fiber, some broccoli & chicken. 
-            It was a good food day. I got my workout, PT, and bike ride in, so, another power hour in the books. I 
-            don't have much to say other than that! I think my weight gain could be either due to the refined grains or 
-            the calorie surplus or both from yesterday. Tomorrow has the potential to have a better weigh-in!
-        </p>
-    </div>
-</BlogPost>
+<FoodExerciseLog
+    dayNum={24}
+    date='April 26, 2023'
+    weighIn={229.4}
+    underGoal={true}
+    goalDelta={200}
+    mainMealsCount={3}
+    mealsList={[
+        "Cheese & salsa tortilla wraps & cottage cheese",
+        "Honey-sriracha stir-fried chicken & veggies",
+        "EveryPlate - pork & green pepper tacos"
+    ]}
+    snacksList={[
+        "Collagen protein shake",
+    ]}
+    didPT={true}
+    exerciseSummary={"\"Power Hour\""}
+    exerciseList={[
+        "10-minute bike ride",
+        "Mile run",
+        "Bicep curls",
+        "Bodyweight Dips"
+    ]}
+/>

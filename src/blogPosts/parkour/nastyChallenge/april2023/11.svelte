@@ -1,9 +1,23 @@
-<script>
-    import BlogPost from '../../../../routes/blog/BlogPost.svelte'
+<script lang='ts'>
+    const dayNum: number = 11
+    const date: string ='April 13, 2023'
+    const weighIn: number = 233.4
 </script>
 
-<BlogPost dayNum={11} date='April 13, 2023' weighIn={233.4}>
-    <div slot='content'>
+<section class='my-10 w-[90%] border p-5 rounded-xl md:w-[50%]'>
+    <div class='w-full text-3xl lg:text-3xl text-red-500 mb-5 flex flex-col justify-evenly items-center text-center'>
+        <h2 id={`day${dayNum}`}>Day {dayNum}</h2>
+    </div>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        {date}
+    </p>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        Weigh-in: {weighIn} lbs.
+    </p>
+
+    <br />
+
+    <div>
         <p>
             Today went pretty well! Still holding the streak. Only thing is I didn't do any exercise. Reason being, 
             I didn't want to risk aggravating my knee which was inflamed yesterday from a hard landing. It felt better by the 
@@ -17,4 +31,4 @@
             love that I can have the creaminess of cream cheese + the protein of cottage cheese.
         </p>
     </div>
-</BlogPost>
+</section>

@@ -77,6 +77,8 @@
         <p>{otherThoughts}</p>
     {/if}
 
+    <slot name='extraContent' />
+
     <br />
 
     <a class='text-sm bg-[#92DCE5] text-black p-2' href='#month-header'>Back to Top</a>

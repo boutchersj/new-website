@@ -1,9 +1,23 @@
-<script>
-    import BlogPost from '../../../../routes/blog/BlogPost.svelte'
+<script lang='ts'>
+    const dayNum: number = 4
+    const date: string ='April 6, 2023'
+    const weighIn: number = 236
 </script>
 
-<BlogPost dayNum={4} date='April 6, 2023' weighIn={236}>
-    <div slot='content'>
+<section class='my-10 w-[90%] border p-5 rounded-xl md:w-[50%]'>
+    <div class='w-full text-3xl lg:text-3xl text-red-500 mb-5 flex flex-col justify-evenly items-center text-center'>
+        <h2 id={`day${dayNum}`}>Day {dayNum}</h2>
+    </div>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        {date}
+    </p>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        Weigh-in: {weighIn} lbs.
+    </p>
+
+    <br />
+
+    <div>
         <p>
             I've taken to eating bread & butter as a snack and that might be influencing my weigh-in a bit. 
             I realized I'm going to need to start having some high-protein snacks and no-cook options in the house now 
@@ -19,4 +33,4 @@
             I may need to start meal-prepping to make sure my snacks are better quality.
         </p>
     </div>
-</BlogPost>
+</section>

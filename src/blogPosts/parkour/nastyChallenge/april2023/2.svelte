@@ -1,9 +1,23 @@
-<script>
-    import BlogPost from '../../../../routes/blog/BlogPost.svelte'
+<script lang='ts'>
+    const dayNum: number = 2
+    const date: string ='April 4, 2023'
+    const weighIn: number = 236.4
 </script>
 
-<BlogPost dayNum={2} date='April 4, 2023' weighIn={236.4}>
-    <div slot='content'>
+<section class='my-10 w-[90%] border p-5 rounded-xl md:w-[50%]'>
+    <div class='w-full text-3xl lg:text-3xl text-red-500 mb-5 flex flex-col justify-evenly items-center text-center'>
+        <h2 id={`day${dayNum}`}>Day {dayNum}</h2>
+    </div>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        {date}
+    </p>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        Weigh-in: {weighIn} lbs.
+    </p>
+
+    <br />
+
+    <div>
         <p>
             I managed to get through another day without too much difficulty! I've stopped tracking calories as of yesterday and I still lost 2.5 pounds. 
             I've been adding a 10-minute mile jog on the treadmill every morning this week, so that might be why. I'll probably skip Wednesday's 
@@ -31,4 +45,4 @@
             to do with that.
         </p>
     </div>
-</BlogPost>
+</section>

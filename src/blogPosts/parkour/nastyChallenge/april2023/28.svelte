@@ -1,21 +1,26 @@
 <script>
-    import BlogPost from '../../../../routes/blog/BlogPost.svelte'
+    import FoodExerciseLog from '$lib/FoodExerciseLog.svelte';
 </script>
 
-<BlogPost dayNum={28} date='April 30, 2023' weighIn={229.4}>
-    <div slot='content'>
-        <p>
-            I went down from 230 again. I'm wondering if I'm starting to plateau. To be fair, while sick, I wasn't working out 
-            consistently at all. I'd imagine that once I pick up my cardio and strength training again & do PT regularly on top of 
-            it, I'll start back on the decline. And I think today I'm starting to truly feel better again. Tomorrow, I bet I won't even 
-            feel sick. Grateful this didn't turn into anything more annoying than it already was.
-        </p>
-        <br />
-        <p>
-            My calorie surplus was less than 500 calories this time, about 350. Without any physical activity today I'm going to bet I 
-            gain weight tomorrow morning. But I'm optimistic that I'll drop to new personal best by next weekend due to adding exercise back 
-            in.
-        </p>
+<FoodExerciseLog
+    dayNum={28}
+    date='April 30, 2023'
+    weighIn={229.4}
+    underGoal={false}
+    goalDelta={350}
+    mainMealsCount={3}
+    mealsList={[
+        "Dave's Killer Bread whole wheat guacamole toast",
+        "Stir-fried veggies w/ avocado chunks & diced chicken",
+        "Salsa & cheese tortilla wraps w/ crescent rolls & cottage cheese"
+    ]}
+    snacksList={[
+        "Dave's Killer Bread buttered whole wheat toast",
+        "Lily's sour gummi worms"
+    ]}
+    didPT={false}
+>
+    <div slot='extraContent'>
         <br />
         <hr />
         <br />
@@ -41,4 +46,4 @@
             a stack of cards or tabbed dividers, so I'm going to look into that approach first because I think it sounds cool.
         </p>
     </div>
-</BlogPost>
+</FoodExerciseLog>

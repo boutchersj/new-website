@@ -1,9 +1,23 @@
-<script>
-    import BlogPost from '../../../../routes/blog/BlogPost.svelte'
+<script lang='ts'>
+    const dayNum: number = 6
+    const date: string ='April 8, 2023'
+    const weighIn: number = 236.2
 </script>
 
-<BlogPost dayNum={6} date='April 8, 2023' weighIn={236.2}>
-    <div slot='content'>
+<section class='my-10 w-[90%] border p-5 rounded-xl md:w-[50%]'>
+    <div class='w-full text-3xl lg:text-3xl text-red-500 mb-5 flex flex-col justify-evenly items-center text-center'>
+        <h2 id={`day${dayNum}`}>Day {dayNum}</h2>
+    </div>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        {date}
+    </p>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        Weigh-in: {weighIn} lbs.
+    </p>
+
+    <br />
+
+    <div>
         <p>
             I'm still not tracking my calories, but eating more of the snacks I bought hasn't 
             seemed to stop me from eating a lot of food every day. Not sure what to do about that except 
@@ -21,4 +35,4 @@
             It's sort of eye-opening!
         </p>
     </div>
-</BlogPost>
+</section> 

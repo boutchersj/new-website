@@ -1,9 +1,23 @@
-<script>
-    import BlogPost from '../../../../routes/blog/BlogPost.svelte'
+<script lang='ts'>
+    const dayNum: number = 7
+    const date: string ='April 9, 2023'
+    const weighIn: number = 236.6
 </script>
 
-<BlogPost dayNum={7} date='April 9, 2023' weighIn={236.6}>
-    <div slot='content'>
+<section class='my-10 w-[90%] border p-5 rounded-xl md:w-[50%]'>
+    <div class='w-full text-3xl lg:text-3xl text-red-500 mb-5 flex flex-col justify-evenly items-center text-center'>
+        <h2 id={`day${dayNum}`}>Day {dayNum}</h2>
+    </div>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        {date}
+    </p>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        Weigh-in: {weighIn} lbs.
+    </p>
+
+    <br />
+
+    <div>
         <p>
             Today was pretty hard. I had to say no to a great gift from Sam's sister because of this 
             challenge. She was understanding about it, but I love gummi peach rings and she got me 2 bags 
@@ -26,4 +40,4 @@
             suppose. As we age, time seems to go faster. Makes it easier to stick to stuff like this, I think.
         </p>
     </div>
-</BlogPost>
+</section> 

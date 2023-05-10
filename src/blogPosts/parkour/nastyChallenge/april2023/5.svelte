@@ -1,9 +1,23 @@
-<script>
-    import BlogPost from '../../../../routes/blog/BlogPost.svelte'
+<script lang='ts'>
+    const dayNum: number = 5
+    const date: string ='April 7, 2023'
+    const weighIn: number = 236.4
 </script>
 
-<BlogPost dayNum={5} date='April 7, 2023' weighIn={236.4}>
-    <div slot='content'>
+<section class='my-10 w-[90%] border p-5 rounded-xl md:w-[50%]'>
+    <div class='w-full text-3xl lg:text-3xl text-red-500 mb-5 flex flex-col justify-evenly items-center text-center'>
+        <h2 id={`day${dayNum}`}>Day {dayNum}</h2>
+    </div>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        {date}
+    </p>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        Weigh-in: {weighIn} lbs.
+    </p>
+
+    <br />
+
+    <div>
         <p>
             Today I went on an insane mountain bike ride up a lot of hills! My body isn't used to that sort of thing, 
             mostly because I've never gone mountain biking before. But this is what happens when you work at Trek. 
@@ -33,4 +47,4 @@
             I'm still feeling good, hoping eating these snacks as substitutes will start to show up in my energy levels and on the scale in the next week.
         </p>
     </div>
-</BlogPost>
+</section>

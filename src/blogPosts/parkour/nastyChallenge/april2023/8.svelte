@@ -1,9 +1,23 @@
-<script>
-    import BlogPost from '../../../../routes/blog/BlogPost.svelte'
+<script lang='ts'>
+    const dayNum: number = 8
+    const date: string ='April 10, 2023'
+    const weighIn: number = 236.6
 </script>
 
-<BlogPost dayNum={8} date='April 10, 2023' weighIn={236.6}>
-    <div slot='content'>
+<section class='my-10 w-[90%] border p-5 rounded-xl md:w-[50%]'>
+    <div class='w-full text-3xl lg:text-3xl text-red-500 mb-5 flex flex-col justify-evenly items-center text-center'>
+        <h2 id={`day${dayNum}`}>Day {dayNum}</h2>
+    </div>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        {date}
+    </p>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        Weigh-in: {weighIn} lbs.
+    </p>
+
+    <br />
+
+    <div>
         <p>
             Today was interesting for a couple of reasons. First of all, right as I was about to leave early to the office this morning, 
             I realized I lost my apartment key over the weekend. So I had to get a new one cut, but had to wait til after 9 to do so. That 
@@ -25,4 +39,4 @@
             don't feel like I need them as much, at least not today.
         </p>
     </div>
-</BlogPost>
+</section>

@@ -1,9 +1,23 @@
-<script>
-    import BlogPost from '../../../../routes/blog/BlogPost.svelte'
+<script lang='ts'>
+    const dayNum: number = 12
+    const date: string ='April 14, 2023'
+    const weighIn: number = 233
 </script>
 
-<BlogPost dayNum={12} date='April 14, 2023' weighIn={233}>
-    <div slot='content'>
+<section class='my-10 w-[90%] border p-5 rounded-xl md:w-[50%]'>
+    <div class='w-full text-3xl lg:text-3xl text-red-500 mb-5 flex flex-col justify-evenly items-center text-center'>
+        <h2 id={`day${dayNum}`}>Day {dayNum}</h2>
+    </div>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        {date}
+    </p>
+    <p class='flex flex-col w-full items-center justify-between text-sm text-red-500 mb-5'>
+        Weigh-in: {weighIn} lbs.
+    </p>
+
+    <br />
+
+    <div>
         <p>
             Another success! I worked from home again today, which meant no salad because I haven't bought any yet. 
             I didn't work out either, just to make sure my knee had another day to rest up. I'm going to get 
@@ -17,4 +31,4 @@
             from Sam's box of Girl Scout cookies and felt nothing. I effortlessly ignored the box of cookies. It's kinda wild.
         </p>
     </div>
-</BlogPost>
+</section>
