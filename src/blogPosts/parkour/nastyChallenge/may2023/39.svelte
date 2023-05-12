@@ -7,11 +7,12 @@
     date='May 11, 2023'
     weighIn={227.4}
     underGoal={false}
-    goalDelta={500}
-    mainMealsCount={3}
+    goalDelta={800}
+    mainMealsCount={4}
     mealsList={[
         "Sweet potato zucchini pancakes w/ mixed berries",
-        "Pretzel bun swiss cheeseburger & turkey wrap",
+        "Turkey wrap & BBQ brisket pizza slice",
+        "Pretzel bun swiss cheeseburger",
         "Culver's - double deluxe cheeseburger w/o mayo"
     ]}
     snacksList={[
