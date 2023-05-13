@@ -6,21 +6,30 @@
     export let startDay: number = 1;
     export let currentMonth: boolean = false;
     export let endDay: number = currentMonth ? (daysSinceStart - 1) : daysSinceStart;
+    let specifiedDay: number = endDay
+    
+    function handleChange(event: any) {
+        const { value } = event.target as HTMLInputElement;
+        specifiedDay = Number(value);
+    }
 </script>
 
 <div id='jumpToDay' class='flex my-5 items-center justify-center w-full'>
     <a 
         class='flex justify-center items-center mx-3 p-3 bg-[#92DCE5] border border-black text-black my rounded'
-        href={`#day${endDay}`}
+        href={`#day${specifiedDay}`}
     >
             Jump
     </a>
     <p>to day</p>
     <input
+        id='dayPicker'
         class='text-black mx-3 w-14 h-14 text-center text-lg'
         type='number'
+        pattern="\d*"
         value={endDay}
         min={startDay}
         max={endDay}
+        on:change={handleChange}
     />
 </div>
