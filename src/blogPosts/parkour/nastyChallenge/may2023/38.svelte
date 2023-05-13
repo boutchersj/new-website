@@ -11,7 +11,7 @@
     mainMealsCount={3}
     mealsList={[
         "Starbucks - kale & portobello mushroom egg bites w/ a cappuccino",
-        "Stir-fry veggies with hot [sugar-free] honey mustard, chicken, & avocado",
+        "Stir-fry veggies with hot [sugar-free] honey mustard, chicken & avocado",
         "EveryPlate - Farmer's Market Linguine"
     ]}
     snacksList={[

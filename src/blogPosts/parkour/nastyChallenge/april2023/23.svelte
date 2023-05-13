@@ -11,7 +11,7 @@
     mainMealsCount={3}
     mealsList={[
         "McDonald's - bacon egg & cheese biscuit",
-        "Spinach, Feta, Olive, & Arugula flatbread pizza",
+        "Spinach, Feta, Olive & Arugula flatbread pizza",
         "EveryPlate - BBQ bacon & onion flatbreads w/ mozzarella & pickled jalapeño"
     ]}
     snacksList={[

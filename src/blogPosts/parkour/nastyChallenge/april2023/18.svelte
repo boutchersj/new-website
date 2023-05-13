@@ -11,7 +11,7 @@
     mainMealsCount={3}
     mealsList={[
         "McDonald's - Steak egg & cheese bagel w/ large plain hot latte",
-        "Turkey, cheese, & guac wrap",
+        "Turkey, cheese & guac wrap",
         "Gluten-free ravioli w/ marinara & grass-fed ground beef"
     ]}
     didPT={false}

@@ -12,7 +12,7 @@
     mealsList={[
         "Cheese & salsa tortilla wraps w/ 2% milk",
         "1 slice each of mac n cheese & taco pizzas",
-        "EveryPlate - roasted zucchini, bell pepper, & tomato penne"
+        "EveryPlate - roasted zucchini, bell pepper & tomato penne"
     ]}
     snacksList={[
         "Culver's - 1/2 a large order of cheese curds",

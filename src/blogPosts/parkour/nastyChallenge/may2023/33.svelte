@@ -12,7 +12,7 @@
     mealsList={[
         "Salami & Provolone on a Pretzel Bun",
         "Trek Snack Wrap",
-        "Buck & Honey's - Seafood Enchiladas, Rice, & Beans"
+        "Buck & Honey's - Seafood Enchiladas, Rice & Beans"
     ]}
     snacksList={[
         "A margarita with dinner",
