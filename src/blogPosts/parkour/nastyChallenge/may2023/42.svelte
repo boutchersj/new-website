@@ -1,4 +1,4 @@
-<!-- <script>
+<script>
     import FoodExerciseLog from '$lib/FoodExerciseLog.svelte';
 </script>
 
@@ -6,18 +6,21 @@
     dayNum={42}
     date='May 14, 2023'
     weighIn={225.8}
-    underGoal={}
-    goalDelta={}
-    mainMealsCount={}
+    underGoal={false}
+    goalDelta={300}
+    mainMealsCount={3}
     mealsList={[
-        "",
+        "Buttered homemade pretzel & swiss bread from the farmer's market",
+        "Sarku Japan - spicy bourbon chicken & fried rice w/ steamed veggies",
+        "EveryPlate - crispy southern chicken sandwich w/ pickled jalapeños & roasted potato wedges"
     ]}
     snacksList={[
-        "",
+        "1 cupe of 2% cottage cheese",
     ]}
-    didPT={}
-    exerciseSummary=""
+    didPT={true}
+    exerciseSummary="Cardio"
     exerciseList={[
-        "",
+        "10-minute bike ride",
+        "2-mile run"
     ]}
-/> -->
+/>
