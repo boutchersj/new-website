@@ -15,7 +15,7 @@
         "EveryPlate - crispy southern chicken sandwich w/ pickled jalapeños & roasted potato wedges"
     ]}
     snacksList={[
-        "1 cupe of 2% cottage cheese",
+        "1 cup of 2% cottage cheese",
     ]}
     didPT={true}
     exerciseSummary="Cardio"
