@@ -75,6 +75,7 @@
         <h3>Other Thoughts</h3>
         <br />
         <p>{otherThoughts}</p>
+        <br />
     {/if}
 
     <slot name='extraContent' />
