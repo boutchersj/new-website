@@ -22,6 +22,7 @@
     import Day47 from '../../../blogPosts/parkour/nastyChallenge/may2023/47.svelte'
     import Day48 from '../../../blogPosts/parkour/nastyChallenge/may2023/48.svelte'
     import Day49 from '../../../blogPosts/parkour/nastyChallenge/may2023/49.svelte'
+    import Day50 from '../../../blogPosts/parkour/nastyChallenge/may2023/50.svelte'
 </script>
 
 <main class='flex flex-col w-[100vw] text-white'>
@@ -55,5 +56,6 @@
         <Day47 />
         <Day48 />
         <Day49 />
+        <Day50 />
     </section>
 </main>
