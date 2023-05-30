@@ -20,7 +20,7 @@
     didPT={true}
     exerciseSummary='Summer fun'
     exerciseList={[
-        'Biking to get smoothies (sugar-free)',
+        'Biking to get smoothies (sugar-free) at Bambu and some stuff at Target',
         'Flying kites in the park',
         'Attempting to run a mile, only got .13 miles before my knee flared up'
     ]}
