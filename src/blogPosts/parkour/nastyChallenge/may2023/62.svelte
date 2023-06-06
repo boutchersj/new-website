@@ -18,7 +18,7 @@
         "Humm! - zero sugar raspberry lemonade kombucha",
     ]}
     didPT={true}
-    exerciseSummary='Bikes & Squats'
+    exerciseSummary='Biking & Squats'
     exerciseList={[
         'Short bike ride to Target & back',
         'Dumbbell squats'
