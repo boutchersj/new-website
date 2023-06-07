@@ -32,11 +32,6 @@
     import Day57 from '../../../blogPosts/parkour/nastyChallenge/may2023/57.svelte'
     import Day58 from '../../../blogPosts/parkour/nastyChallenge/may2023/58.svelte'
     import Day59 from '../../../blogPosts/parkour/nastyChallenge/may2023/59.svelte'
-    import Day60 from '../../../blogPosts/parkour/nastyChallenge/may2023/60.svelte'
-    import Day61 from '../../../blogPosts/parkour/nastyChallenge/may2023/61.svelte'
-    import Day62 from '../../../blogPosts/parkour/nastyChallenge/may2023/62.svelte'
-    import Day63 from '../../../blogPosts/parkour/nastyChallenge/may2023/63.svelte'
-    import Day64 from '../../../blogPosts/parkour/nastyChallenge/may2023/64.svelte'
 </script>
 
 <main class='flex flex-col w-[100vw] text-white'>
@@ -44,7 +39,7 @@
         <span class='p-7 rounded-xl bg-black flex flex-col justify-evenly items-center'>
             <p class='text-red-500'>#NASTY Challenge</p>
             <p class='font-bold'>May 2023</p>
-            <DayJumper startDay={29} currentMonth={true}/>
+            <DayJumper startDay={29} endDay={59} currentMonth={true}/>
             <a class='text-sm bg-[#92DCE5] text-black p-2' href='/blog'>Back to Blog</a>
         </span>
     </h1>
@@ -80,10 +75,5 @@
         <Day57 />
         <Day58 />
         <Day59 />
-        <Day60 />
-        <Day61 />
-        <Day62 />
-        <Day63 />
-        <Day64 />
     </section>
 </main>
