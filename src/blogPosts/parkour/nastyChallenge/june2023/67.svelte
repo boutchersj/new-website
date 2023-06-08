@@ -3,9 +3,9 @@
 </script>
 
 <FoodExerciseLog
-    dayNum={66}
-    date='June 7, 2023'
-    weighIn={223.6}
+    dayNum={67}
+    date='June 8, 2023'
+    weighIn={221.6}
     underGoal={}
     goalDelta={}
     mainMealsCount={}

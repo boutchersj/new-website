@@ -1,13 +1,13 @@
 <script>
     import '../../../app.css'
     import DayJumper from '$lib/DayJumper.svelte'
-    import Day60 from '../../../blogPosts/parkour/nastyChallenge/may2023/60.svelte'
-    import Day61 from '../../../blogPosts/parkour/nastyChallenge/may2023/61.svelte'
-    import Day62 from '../../../blogPosts/parkour/nastyChallenge/may2023/62.svelte'
-    import Day63 from '../../../blogPosts/parkour/nastyChallenge/may2023/63.svelte'
-    import Day64 from '../../../blogPosts/parkour/nastyChallenge/may2023/64.svelte'
-    import Day65 from '../../../blogPosts/parkour/nastyChallenge/may2023/65.svelte'
-    import Day66 from '../../../blogPosts/parkour/nastyChallenge/may2023/66.svelte'
+    import Day60 from '../../../blogPosts/parkour/nastyChallenge/june2023/60.svelte'
+    import Day61 from '../../../blogPosts/parkour/nastyChallenge/june2023/61.svelte'
+    import Day62 from '../../../blogPosts/parkour/nastyChallenge/june2023/62.svelte'
+    import Day63 from '../../../blogPosts/parkour/nastyChallenge/june2023/63.svelte'
+    import Day64 from '../../../blogPosts/parkour/nastyChallenge/june2023/64.svelte'
+    import Day65 from '../../../blogPosts/parkour/nastyChallenge/june2023/65.svelte'
+    import Day66 from '../../../blogPosts/parkour/nastyChallenge/june2023/66.svelte'
 </script>
 
 <main class='flex flex-col w-[100vw] text-white'>
@@ -26,5 +26,6 @@
         <Day63 />
         <Day64 />
         <Day65 />
+        <Day66 />
     </section>
 </main>

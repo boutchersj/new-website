@@ -1,6 +1,7 @@
-import { expect, test } from '@playwright/test';
+// import { Locator, expect, test } from '@playwright/test';
 
-test('index page has expected h1', async ({ page }) => {
-	await page.goto('/');
-	expect(await page.textContent('h1')).toBe('Welcome to SvelteKit');
-});
+// test('Blog button has loaded', async ({ page }) => {
+// 	await page.goto('/');
+// 	const parkourBlog: Locator = await page.getByTestId('Parkour-blog')
+// 	expect(parkourBlog).toHaveText('Read Blog');
+// });

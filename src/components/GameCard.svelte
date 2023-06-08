@@ -27,6 +27,6 @@
     {#if blogEndpoint}
     <a href={`/${blogEndpoint}`} class='bg-[#92DCE5] text-black rounded-xl px-5 py-3 mb-5'>Read Blog</a>
     {:else if subdomain}
-    <a href={`https://${subdomain}.stevenboutcher.com`} target='_blank' class='bg-[#92DCE5] text-black rounded-xl px-5 py-3 mb-5'>Read Blog</a>
+    <a id={`${title}-blog`} href={`https://${subdomain}.stevenboutcher.com`} target='_blank' class='bg-[#92DCE5] text-black rounded-xl px-5 py-3 mb-5'>Read Blog</a>
     {/if}
 </div>
