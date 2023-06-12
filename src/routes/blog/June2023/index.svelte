@@ -34,5 +34,6 @@
         <Day67 />
         <Day68 />
         <Day69 />
+        <Day70 />
     </section>
 </main>
