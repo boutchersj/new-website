@@ -5,7 +5,7 @@
 <FoodExerciseLog
     dayNum={75}
     date='June 16, 2023'
-    weighIn={}
+    weighIn={221.6}
     underGoal={}
     goalDelta={}
     mainMealsCount={}
