@@ -1,4 +1,4 @@
-<!-- <script>
+<script>
     import FoodExerciseLog from '$lib/FoodExerciseLog.svelte';
 </script>
 
@@ -6,14 +6,16 @@
     dayNum={75}
     date='June 16, 2023'
     weighIn={221.6}
-    underGoal={}
-    goalDelta={}
-    mainMealsCount={}
+    underGoal={false}
+    goalDelta={1050}
+    mainMealsCount={3}
     mealsList={[
-        "",
+        "McDonald's iced latte w/ cottage cheese & kiwi",
+        "Trek Cafe - salad w/ mozz & chicken",
+        "Culver's - double PBB&J butterburger w/ cheese curds"
     ]}
     snacksList={[
-        "",
+        "Cottage cheese",
     ]}
     didPT={true}
     exerciseSummary='Mixed bag'
@@ -22,4 +24,4 @@
         '15-minute swim',
         'Rock climbing sesh'
     ]}
-/> -->
+/>
