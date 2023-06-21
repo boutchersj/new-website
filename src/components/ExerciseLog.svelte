@@ -5,6 +5,8 @@
     export let didPT: boolean=true;
     export let exerciseSummary: string='';
     export let exerciseList: string[]=[];
+    export let veggiesCups: number=0;
+    export let fruitCups: number=0;
     export let otherThoughts: string='';
 </script>
 
@@ -35,6 +37,29 @@
             <li>{exercise}</li>
         {/each}
     </ul>
+
+    <br />
+    {#if fruitCups == 0}
+        <s><h3>Cups of Fruit</h3></s>
+    {:else}
+        <span>Cups of Fruit</span>
+    {/if}
+    {#each {length: fruitCups} as _, i}
+        <span>🍓</span>
+    {/each}
+    <br />
+    <br />
+
+
+    {#if veggiesCups == 0}
+        <s><h3>Cups of Non-Starchy Veggies</h3></s>
+    {:else}
+        <span>Cups of Non-Starchy Veggies</span>
+    {/if}
+    {#each {length: veggiesCups} as _, i}
+        <span>🥕</span>
+    {/each}
+    <br />
 
     {#if otherThoughts}
         <br />
