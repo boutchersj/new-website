@@ -11,7 +11,8 @@
     exerciseList={[
         'Morning bike ride to YMCA & back',
         '15-minute swim (500 yds)',
+        'Rock climbing sesh'
     ]}
     fruitCups={2}
-    veggiesCups={0}
+    veggiesCups={4}
 />
