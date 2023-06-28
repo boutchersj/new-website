@@ -3,10 +3,10 @@
 </script>
 
 <ExerciseLog
-    dayNum={84}
-    date='June 25, 2023'
-    weighIn={219.6}
+    dayNum={87}
+    date='June 28, 2023'
+    weighIn={218.2}
     didPT={false}
-    fruitCups={2}
+    fruitCups={0}
     veggiesCups={0}
 />
