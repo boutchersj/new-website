@@ -30,6 +30,7 @@
     import Day86 from '../../../blogPosts/parkour/nastyChallenge/june2023/86.svelte'
     import Day87 from '../../../blogPosts/parkour/nastyChallenge/june2023/87.svelte'
     import Day88 from '../../../blogPosts/parkour/nastyChallenge/june2023/88.svelte'
+    import Day89 from '../../../blogPosts/parkour/nastyChallenge/june2023/89.svelte'
 </script>
 
 <main class='flex flex-col w-[100vw] text-white'>
@@ -37,7 +38,7 @@
         <span class='p-7 rounded-xl bg-black flex flex-col justify-evenly items-center'>
             <p class='text-red-500'>#NASTY Challenge</p>
             <p class='font-bold'>June 2023</p>
-            <DayJumper startDay={60} currentMonth={true}/>
+            <DayJumper startDay={60} endDay={89} />
             <a class='text-sm bg-[#92DCE5] text-black p-2' href='/blog'>Back to Blog</a>
         </span>
     </h1>
@@ -71,5 +72,6 @@
         <Day86 />
         <Day87 />
         <Day88 />
+        <Day89 />
     </section>
 </main>

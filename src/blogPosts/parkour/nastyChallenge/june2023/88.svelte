@@ -8,5 +8,5 @@
     weighIn={217.6}
     didPT={false}
     fruitCups={2}
-    veggiesCups={4}
+    veggiesCups={2}
 />

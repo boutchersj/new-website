@@ -5,12 +5,8 @@
 <ExerciseLog
     dayNum={90}
     date='July 1, 2023'
-    weighIn={0}
+    weighIn={219}
     didPT={false}
-    exerciseSummary=''
-    exerciseList={[
-        ''
-    ]}
-    fruitCups={0}
-    veggiesCups={0}
+    fruitCups={2}
+    veggiesCups={4}
 />
