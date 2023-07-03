@@ -11,7 +11,7 @@
         <a class='text-sm bg-[#92DCE5] text-black p-2 mb-5 w-[10rem] text-center' href='/blog/April2023'>April 2023</a>
         <a class='text-sm bg-[#92DCE5] text-black p-2 mb-5 w-[10rem] text-center' href='/blog/May2023'>May 2023</a>
         <a class='text-sm bg-[#92DCE5] text-black p-2 mb-5 w-[10rem] text-center' href='/blog/June2023'>June 2023</a>
-        <!-- <a class='text-sm bg-[#92DCE5] text-black p-2 mb-5 w-[10rem] text-center' href='/blog/July2023'>July 2023</a> -->
+        <a class='text-sm bg-[#92DCE5] text-black p-2 mb-5 w-[10rem] text-center' href='/blog/July2023'>July 2023</a>
     </section>
     <div class='w-full flex justify-center mb-10'>
         <img class='w-full rounded-xl'src='/sugar.jpeg' alt='bowl of sugar'/>
