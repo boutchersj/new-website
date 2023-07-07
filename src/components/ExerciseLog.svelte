@@ -2,11 +2,14 @@
     export let dayNum: number;
     export let date: string;
     export let weighIn: number;
-    export let didPT: boolean=true;
+    export let didPT: boolean;
     export let exerciseSummary: string='';
     export let exerciseList: string[]=[];
     export let veggiesCups: number=0;
     export let fruitCups: number=0;
+    export let flax: boolean;
+    export let lGlutamine: boolean;
+    export let fishOil: boolean;
     export let otherThoughts: string='';
 </script>
 
@@ -38,6 +41,8 @@
         {/each}
     </ul>
 
+    <h3 class='font-bold'>Food</h3>
+
     <br />
     {#if fruitCups == 0}
         <s><h3>Cups of Fruit</h3></s>
@@ -60,10 +65,35 @@
         <span>🥕</span>
     {/each}
     <br />
+    <br />
+
+    {#if dayNum >= 96}
+        <h3 class='font-bold'>Supplements</h3>
+        <br />
+
+        {#if flax}
+            <h3>✅ 1 tbsp. ground flax seed</h3>
+        {:else}
+            <s><h3>1 tbsp. ground flax seed</h3></s>
+        {/if}
+        <br />
+
+        {#if lGlutamine}
+            <h3>✅ L-Glutamine</h3>
+        {:else}
+            <s><h3>L-Glutamine supplement</h3></s>
+        {/if}
+        <br />
+
+        {#if fishOil}
+            <h3>✅ Fish Oil</h3>
+        {:else}
+            <s><h3>Fish Oil supplement</h3></s>
+        {/if}
+    {/if}
 
     {#if otherThoughts}
         <br />
-
         <h3>Other Thoughts</h3>
         <br />
         <p>{otherThoughts}</p>
