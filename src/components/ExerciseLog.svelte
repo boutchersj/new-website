@@ -7,9 +7,9 @@
     export let exerciseList: string[]=[];
     export let veggiesCups: number=0;
     export let fruitCups: number=0;
-    export let flax: boolean;
-    export let lGlutamine: boolean;
-    export let fishOil: boolean;
+    export let flax: boolean=false;
+    export let lGlutamine: boolean=false;
+    export let fishOil: boolean=false;
     export let otherThoughts: string='';
 </script>
 
