@@ -8,7 +8,7 @@
     weighIn={220.2}
     didPT={false}
     fruitCups={2}
-    veggiesCups={4}
+    veggiesCups={1}
     flax={true}
     lGlutamine={true}
     fishOil={true}
