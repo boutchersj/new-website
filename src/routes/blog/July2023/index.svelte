@@ -9,6 +9,7 @@
     import Day95 from '../../../blogPosts/parkour/nastyChallenge/july2023/95.svelte'
     import Day96 from '../../../blogPosts/parkour/nastyChallenge/july2023/96.svelte'
     import Day97 from '../../../blogPosts/parkour/nastyChallenge/july2023/97.svelte'
+    import Day98 from '../../../blogPosts/parkour/nastyChallenge/july2023/98.svelte'
 </script>
 
 <main class='flex flex-col w-[100vw] text-white'>
@@ -29,5 +30,6 @@
         <Day95 />
         <Day96 />
         <Day97 />
+        <Day98 />
     </section>
 </main>

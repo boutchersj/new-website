@@ -3,7 +3,7 @@
 </script>
 
 <ExerciseLog
-    dayNum={96}
+    dayNum={97}
     date='July 8, 2023'
     weighIn={220.2}
     didPT={false}
