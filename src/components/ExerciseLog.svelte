@@ -41,8 +41,9 @@
         {/each}
     </ul>
 
-    <h3 class='font-bold'>Food</h3>
+    <br />
 
+    <h3 class='font-bold'>Food</h3>
     <br />
     {#if fruitCups == 0}
         <s><h3>Cups of Fruit</h3></s>
