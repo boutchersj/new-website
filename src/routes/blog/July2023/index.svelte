@@ -17,7 +17,12 @@
     import Day103 from '../../../blogPosts/parkour/nastyChallenge/july2023/103.svelte'
     import Day104 from '../../../blogPosts/parkour/nastyChallenge/july2023/104.svelte'
     import Day105 from '../../../blogPosts/parkour/nastyChallenge/july2023/105.svelte'
-    // import Day106 from '../../../blogPosts/parkour/nastyChallenge/july2023/106.svelte'
+    import Day106 from '../../../blogPosts/parkour/nastyChallenge/july2023/106.svelte'
+    import Day107 from '../../../blogPosts/parkour/nastyChallenge/july2023/107.svelte'
+    import Day108 from '../../../blogPosts/parkour/nastyChallenge/july2023/108.svelte'
+    import Day109 from '../../../blogPosts/parkour/nastyChallenge/july2023/109.svelte'
+    import Day110 from '../../../blogPosts/parkour/nastyChallenge/july2023/110.svelte'
+    // import Day111 from '../../../blogPosts/parkour/nastyChallenge/july2023/111.svelte'
 </script>
 
 <main class='flex flex-col w-[100vw] text-white'>
@@ -44,5 +49,11 @@
         <Day103 />
         <Day104 />
         <Day105 />
+        <Day106 />
+        <Day107 />
+        <Day108 />
+        <Day109 />
+        <Day110 />
+        <!-- <Day111 /> -->
     </section>
 </main>

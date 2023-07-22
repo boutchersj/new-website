@@ -3,8 +3,8 @@
 </script>
 
 <ExerciseLog
-    dayNum={106}
-    date='July 17, 2023'
+    dayNum={109}
+    date='July 20, 2023'
     weighIn={219}
     didPT={true}
     exerciseSummary='Morning at the Y'
@@ -13,7 +13,7 @@
         'eGym circuit',
     ]}
     fruitCups={2}
-    veggiesCups={1}
+    veggiesCups={4}
     flax={true}
     lGlutamine={true}
     fishOil={true}
