@@ -5,15 +5,11 @@
 <ExerciseLog
     dayNum={111}
     date='July 22, 2023'
-    weighIn={221}
+    weighIn={220}
     didPT={false}
-    exerciseSummary='Kayaking in Door County!'
-    exerciseList={[
-        'Kayak tour of Cave Point County Park',
-    ]}
-    fruitCups={2}
-    veggiesCups={4}
-    flax={true}
+    fruitCups={0}
+    veggiesCups={0}
+    flax={false}
     lGlutamine={true}
     fishOil={true}
 />
