@@ -11,11 +11,11 @@
     exerciseList={[
         'Bike ride to YMCA & back',
         'eGym circuit',
-        'Swim'
+        '250-yard swim'
     ]}
     fruitCups={2}
-    veggiesCups={4}
-    flax={true}
+    veggiesCups={0}
+    flax={false}
     lGlutamine={true}
     fishOil={true}
 />
