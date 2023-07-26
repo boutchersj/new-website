@@ -13,7 +13,7 @@
         'eGym circuit',
         '250-yard swim'
     ]}
-    fruitCups={1}
+    fruitCups={2}
     veggiesCups={4}
     flax={false}
     lGlutamine={true}
