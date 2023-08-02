@@ -31,6 +31,7 @@
     import Day117 from '../../../blogPosts/parkour/nastyChallenge/july2023/117.svelte'
     import Day118 from '../../../blogPosts/parkour/nastyChallenge/july2023/118.svelte'
     import Day119 from '../../../blogPosts/parkour/nastyChallenge/july2023/119.svelte'
+    import Day120 from '../../../blogPosts/parkour/nastyChallenge/july2023/120.svelte'
 </script>
 
 <main class='flex flex-col w-[100vw] text-white'>
@@ -38,7 +39,8 @@
         month='July'
         year={2023}
         startDay={90}
-        currentMonth={true}
+        currentMonth={false}
+        endDay={120}
     />
     <section class='w-full flex flex-col items-center'>
         <Day90 />
@@ -71,5 +73,6 @@
         <Day117 />
         <Day118 />
         <Day119 />
+        <Day120 />
     </section>
 </main>
