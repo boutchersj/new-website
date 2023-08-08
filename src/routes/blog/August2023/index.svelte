@@ -5,7 +5,10 @@
     import Day122 from '../../../blogPosts/parkour/nastyChallenge/august2023/122.svelte'
     import Day123 from '../../../blogPosts/parkour/nastyChallenge/august2023/123.svelte'
     import Day124 from '../../../blogPosts/parkour/nastyChallenge/august2023/124.svelte'
-    // import Day125 from '../../../blogPosts/parkour/nastyChallenge/august2023/125.svelte'
+    import Day125 from '../../../blogPosts/parkour/nastyChallenge/august2023/125.svelte'
+    import Day126 from '../../../blogPosts/parkour/nastyChallenge/august2023/126.svelte'
+    import Day127 from '../../../blogPosts/parkour/nastyChallenge/august2023/127.svelte'
+    import Day128 from '../../../blogPosts/parkour/nastyChallenge/august2023/128.svelte'
 </script>
 
 <main class='flex flex-col w-[100vw] text-white'>
@@ -20,6 +23,9 @@
         <Day122 />
         <Day123 />
         <Day124 />
-        <!-- <Day125 /> -->
+        <Day125 />
+        <Day126 />
+        <Day127 />
+        <Day128 />
     </section>
 </main>
