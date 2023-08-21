@@ -9,7 +9,7 @@
     didPT={false}
     exerciseSummary='Quick Trek Gym Workout'
     exerciseList={[
-        '3x5 banded pull-ups',
+        '3 x 5 banded pull-ups',
         'Leg stretches'
     ]}
     fruitCups={2}

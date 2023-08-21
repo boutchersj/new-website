@@ -7,12 +7,14 @@
     date='August 15, 2023'
     weighIn={218.2}
     didPT={false}
-    exerciseSummary='Morning Jog'
+    exerciseSummary='Mixed bag'
     exerciseList={[
-        '.63-mile jog (10:39 pace)'
+        '.63-mile jog (10:39 pace)',
+        '3 x 5 band-assisted pull-ups',
+        'MTB ride to The Lodge & back'
     ]}
-    fruitCups={0}
-    veggiesCups={0}
+    fruitCups={2}
+    veggiesCups={4}
     flax={true}
     lGlutamine={true}
     fishOil={true}
