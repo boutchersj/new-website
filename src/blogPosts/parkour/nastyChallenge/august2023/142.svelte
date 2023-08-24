@@ -10,6 +10,7 @@
     exerciseSummary=''
     exerciseList={[
         '3x3 bodyweight pull-ups',
+        'Plyo - 3x5 - box jumps & drops',
         'Bike ride to & from work'
     ]}
     fruitCups={2}
