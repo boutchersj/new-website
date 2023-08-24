@@ -28,6 +28,6 @@
             be taking the country roads next time.
         </p>
         <br />
-        <img class='w-[50%]' src='/3rd_ride_to_work.png' alt='My 3rd bike ride to & from work - Strava recording details' />
+        <img src='/3rd_ride_to_work.png' alt='My 3rd bike ride to & from work - Strava recording details' />
     </div>
 </ExerciseLog>
