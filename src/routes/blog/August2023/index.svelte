@@ -28,7 +28,10 @@
     import Day145 from '../../../blogPosts/parkour/nastyChallenge/august2023/145.svelte'
     import Day146 from '../../../blogPosts/parkour/nastyChallenge/august2023/146.svelte'
     import Day147 from '../../../blogPosts/parkour/nastyChallenge/august2023/147.svelte'
-    // import Day148 from '../../../blogPosts/parkour/nastyChallenge/august2023/148.svelte'
+    import Day148 from '../../../blogPosts/parkour/nastyChallenge/august2023/148.svelte'
+    import Day149 from '../../../blogPosts/parkour/nastyChallenge/august2023/149.svelte'
+    import Day150 from '../../../blogPosts/parkour/nastyChallenge/august2023/150.svelte'
+    import Day151 from '../../../blogPosts/parkour/nastyChallenge/august2023/151.svelte'
 </script>
 
 <main class='flex flex-col w-[100vw] text-white'>
@@ -36,7 +39,8 @@
         month='August'
         year={2023}
         startDay={121}
-        currentMonth={true}
+        endDay={151}
+        currentMonth={false}
     />
     <section class='w-full flex flex-col items-center'>
         <Day121 />
@@ -66,6 +70,9 @@
         <Day145 />
         <Day146 />
         <Day147 />
-        <!-- <Day148 /> -->
+        <Day148 />
+        <Day149 />
+        <Day150 />
+        <Day151 />
     </section>
 </main>
