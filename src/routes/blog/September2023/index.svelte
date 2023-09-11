@@ -7,7 +7,11 @@
     import Day155 from '../../../blogPosts/parkour/nastyChallenge/september2023/155.svelte'
     import Day156 from '../../../blogPosts/parkour/nastyChallenge/september2023/156.svelte'
     import Day157 from '../../../blogPosts/parkour/nastyChallenge/september2023/157.svelte'
-    // import Day158 from '../../../blogPosts/parkour/nastyChallenge/september2023/158.svelte'
+    import Day158 from '../../../blogPosts/parkour/nastyChallenge/september2023/158.svelte'
+    import Day159 from '../../../blogPosts/parkour/nastyChallenge/september2023/159.svelte'
+    import Day160 from '../../../blogPosts/parkour/nastyChallenge/september2023/160.svelte'
+    import Day161 from '../../../blogPosts/parkour/nastyChallenge/september2023/161.svelte'
+    // import Day162 from '../../../blogPosts/parkour/nastyChallenge/september2023/162.svelte'
 </script>
 
 <main class='flex flex-col w-[100vw] text-white'>
@@ -24,6 +28,10 @@
         <Day155 />
         <Day156 />
         <Day157 />
-        <!-- <Day158 /> -->
+        <Day158 />
+        <Day159 />
+        <Day160 />
+        <Day161 />
+        <!-- <Day162 /> -->
     </section>
 </main>

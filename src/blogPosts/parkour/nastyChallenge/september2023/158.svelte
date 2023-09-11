@@ -7,12 +7,13 @@
     date='September 7, 2023'
     weighIn={215.8}
     didPT={true}
-    exerciseSummary=''
+    exerciseSummary='Quick Gym Sesh'
     exerciseList={[
-        ''
+        '1/2-mile jog @ 10:00/mi',
+        '5-4-3 bodyweight pull-ups'
     ]}
-    fruitCups={1}
-    veggiesCups={0}
+    fruitCups={2}
+    veggiesCups={4}
     flax={true}
     lGlutamine={true}
     fishOil={true}
