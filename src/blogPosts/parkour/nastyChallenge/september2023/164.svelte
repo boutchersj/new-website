@@ -3,14 +3,14 @@
 </script>
 
 <ExerciseLog
-    dayNum={162}
-    date='September 11, 2023'
-    weighIn={218.2}
-    didPT={false}
-    exerciseSummary='Plyo @ the Park'
+    dayNum={164}
+    date='September 13, 2023'
+    weighIn={216.6}
+    didPT={true}
+    exerciseSummary='Trip to the Y'
     exerciseList={[
-        '6.29-mile bike ride to Sheehan Park & back',
-        '3 x 5 box jumps'
+        'Bike to the Y & back - 3 miles',
+        '250-yard swim',
     ]}
     fruitCups={2}
     veggiesCups={4}
