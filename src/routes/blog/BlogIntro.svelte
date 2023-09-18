@@ -86,4 +86,62 @@
         entry per day, so I can process any feelings or thoughts I have day-to-day and spot trends in hindsight 
         later on. With that, onwards and upwards! 🚀
     </p>
+    <br />
+    <hr />
+    <br />
+    <h2 class='text-4xl text-red-500'>Update - 9/18/2023</h2>
+    <br />
+    <p>This has been a lot harder and a lot easier than I thought.</p>
+    <br />
+    <p>The hard part was getting started. The easy part was continuing on after a few weeks of success.</p>
+    <br />
+    <p>
+        The 2nd hard part was wanting to continue in spite of slipping up a few times. All in all, the days I've 
+        had more than 25g of added sugar comprise less than 5% of this entire journey, which is why I've been able 
+        to lose a definitive 30 pounds this year. But it didn't change how I felt about cheating myself. That said, I 
+        had the discernment to recognize that if I quit because of a few slip-ups, I'd never make real progress or keep 
+        any results I achieved in the long-term.
+    </p>
+    <br />
+    <p>
+        After accepting that I would need to be OK with small amounts of sugar in my life as a realistic inevitability, I 
+        relaxed about it. I've already fundamentally changed the way I interact with sugar in a way that I see as permanent. 
+        There's a level of trust I'm permitted to have with myself around the occasional snack.
+    </p>
+    <br />
+    <p>
+        The 3rd hard part was hitting my plateau in June. I lost 20 pounds fairly rapidly all because I was avoiding sugar and 
+        including some cardio & strength training during the week. It only took 3 months to lose the 20 pounds that came after this 
+        no-sugar challenge started. But then I hit a wall because there are still other food choices I'm making that are holding me back. 
+        My nutritionist points to the refined carbs & fried food that I'm still eating. I'm also definitely missing out on another 5 pounds 
+        of weight loss just because I'm not staying within my calorie requirements every day. I go over by 500-1000 calories on average.
+    </p>
+    <br />
+    <p>
+        All of this said, I started the year at 246 lbs., started this challenge at 238 lbs, and I'm currently sitting between 215-218 lbs.
+    </p>
+    <br />
+    <p>
+        Even if I'm stalled for now, I've broken through plateaus before:
+    </p>
+    <br />
+    <ul>
+        <li>Plateau #1:<br />Jan-Feb 2023<br />Started seeing a nutritonist, tracking my weight, and tracking my calories</li>
+        <br />
+        <li>Plateau #2:<br />Mar-Apr 2023<br />Started restricting my sugar intake</li>
+        <br />
+        <li>Plateau #3<br />Jun-Sept 2023<br />???</li>
+    </ul>
+    <br />
+    <p>
+        This has been the longest plateau yet, though, at least while I've actively been trying to lose weight. I don't enjoy the thought of it, 
+        but I will likely need to make another major change to how I'm eating. I've tried the exercise approach before, but training for a half-marathon 
+        in 2022 and biking to work once a week the past month have not changed how much I weigh, only my ability to tolerate endurance workouts.
+    </p>
+    <br />
+    <p>
+        I'm going to need to keep exercising to maintain my muscle mass & cardiovascular fitness, but if I want to see the scale change, I need to 
+        start another chapter in my nutrition journey. Not sure what I'm willing to commit to yet, but the one that feels most obvious to me is completely 
+        eliminating fast food for 30 days to see if that does anything.
+    </p>
 </section>
