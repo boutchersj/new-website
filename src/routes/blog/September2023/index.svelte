@@ -25,7 +25,12 @@
     import Day173 from '../../../blogPosts/parkour/nastyChallenge/september2023/173.svelte'
     import Day174 from '../../../blogPosts/parkour/nastyChallenge/september2023/174.svelte'
     import Day175 from '../../../blogPosts/parkour/nastyChallenge/september2023/175.svelte'
-    // import Day176 from '../../../blogPosts/parkour/nastyChallenge/september2023/176.svelte'
+    import Day176 from '../../../blogPosts/parkour/nastyChallenge/september2023/176.svelte'
+    import Day177 from '../../../blogPosts/parkour/nastyChallenge/september2023/177.svelte'
+    import Day178 from '../../../blogPosts/parkour/nastyChallenge/september2023/178.svelte'
+    import Day179 from '../../../blogPosts/parkour/nastyChallenge/september2023/179.svelte'
+    import Day180 from '../../../blogPosts/parkour/nastyChallenge/september2023/180.svelte'
+    import Day181 from '../../../blogPosts/parkour/nastyChallenge/september2023/181.svelte'
 </script>
 
 <main class='flex flex-col w-[100vw] text-white'>
@@ -33,7 +38,8 @@
         month='September'
         year={2023}
         startDay={152}
-        currentMonth={true}
+        currentMonth={false}
+        endDay={181}
     />
     <section class='w-full flex flex-col items-center'>
         <Day152 />
@@ -60,6 +66,11 @@
         <Day173 />
         <Day174 />
         <Day175 />
-        <!-- <Day176 /> -->
+        <Day176 />
+        <Day177 />
+        <Day178 />
+        <Day179 />
+        <Day180 />
+        <Day181 />
     </section>
 </main>

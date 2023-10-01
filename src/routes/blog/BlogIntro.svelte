@@ -144,4 +144,67 @@
         start another chapter in my nutrition journey. Not sure what I'm willing to commit to yet, but the one that feels most obvious to me is completely 
         eliminating fast food for 30 days to see if that does anything.
     </p>
+
+    <br />
+    <hr />
+    <br />
+    <h2 class='text-4xl text-red-500'>END OF CHALLENGE - 9/30/2023</h2>
+    <br />
+    <p>
+        I decided to call it quits today.
+    </p>
+    <br />
+    <p>
+        I started on April 3, 2023, and this challenge ran a few days shy of a full 6 calendar months.
+        If I'm getting technical, it's been 181 days. I haven't missed a single day of blogging my progress.
+    </p>
+    <br />
+    <p>
+        At the beginning of the challenge, I weighed 238 lbs.
+    </p>
+    <br />
+    <p>
+        In the first 3 months, I lost an impressive 20 lbs. Most of it was fat, but 2 lbs. of it was muscle. 
+        For the remaining 3 months, I've held a strong plateau at my new weight of 218 lbs. 
+        I've even gained back 1 lb. of muscle. Not great, but definitely not bad.
+    </p>
+    <br />
+    <p>
+        I saw the writing on the wall when I got interested in creating content on Twitter (now called X). This 
+        passion was about sharing my knowledge from being in the software QA field for 3 years, and helping people get 
+        into the industry. I also found opportunities to help indie devs test their apps. Now I'm looking at how I can 
+        build this into a business.
+    </p>
+    <br />
+    <p>
+        My heart was 100% in this challenge when I started it, but lately, my sights are on 
+        building this business. I even quit orchestra, something I also enjoy, because I care so much about this 
+        new mission I have, which is to find unconventional ways to share my QA expertise with the world, in a way 
+        that could someday provide me with an independent income and location freedom, and the luxury to pursue the 
+        kinds of projects I want to see in the world that I don't have time to create right now while working a 9-5.
+    </p>
+    <br />
+    <p>
+        As any entrepreneur knows, you can't dilly-dally when you're starting a new venture. You have to go through a season 
+        of intensity to get it off the ground before you can go into maintenance mode. So I'm putting all my eggs in this basket, 
+        while keeping my health in maintenance mode. My nutritionist gave me the tools I need to not go off the deep end, and I'm 
+        finally free from my sugar addiction, and can enjoy sweet treats in moderation.
+    </p>
+    <br />
+    <p>
+        This no-added-sugar experiment was a resounding success! I'm happy to say that I think anyone could repeat my efforts and 
+        achieve similarly shocking results. I didn't even strictly avoid added sugar towards the end of this challenge. I just didn't consume 
+        it frequently or in large amounts. And I didn't end up reversing any of my results. I just maintained them.
+    </p>
+    <br />
+    <p>
+        The big lesson here is I changed 1 thing, but that 1 thing was the biggest obstacle for me to overcome, the 1 thing I was hopelessly 
+        addicted to. If everyone could look at their exercise/nutrition routines and see what's getting in their way the most, I think they'd 
+        be surprised how big a change they'd see if they worked on the biggest recurring issue they see. It may not even be sugar. For some, it may 
+        be that they eat well but don't exercise at all. Or maybe they like eating a ton of potato chips.
+    </p>
+    <br />
+    <p>
+        Whatever your biggest obstacle is, I encourage anyone who finds this blog to do a personal audit. See if you can make your own 3-6-month challenge!
+    </p>
 </section>
