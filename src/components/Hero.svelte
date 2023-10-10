@@ -14,7 +14,7 @@ whiteColor: '#F8F7F9'
         </h2>
         <div id='cta-buttons' class='flex justify-evenly md:justify-center md:w-[50%] xl:w-full w-full min-w-[250px]'>
             <a target='_blank' class='flex justify-center items-center text-xs rounded-full bg-black text-white p-2 md:mr-10' id='portfolio-link' href='https://www.github.com/boutchersj'>SEE PORTFOLIO</a>
-            <a target='_blank' class='flex justify-center items-center border border-[#92DCE5] text-white rounded-full text-xs p-2' id='contact-link' href='https://linktr.ee/stevenboutcher'>CONTACT ME</a>
+            <a target='_blank' class='flex justify-center items-center border border-[#92DCE5] text-white rounded-full text-xs p-2' id='contact-link' href='https://steven-qa.carrd.co/'>CONTACT ME</a>
         </div>
     </div>
     <div class='xl:w-[50%] flex justify-center p-10 radial-gradient-tr order-1 xl:order-2'>
